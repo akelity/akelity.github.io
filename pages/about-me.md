@@ -30,14 +30,14 @@ subtitle: Why you'd want to go on a date with me
     "address": {
       "@type": "PostalAddress",
       "addressLocality": "Milan, Italy",
-      "postalCode": "20100",
+      "postalCode": "20100"
     }
   },
   "name": "Michel Murabito",
   "familyName": "Murabito",
   "givenName": "Michel",
   "nationality": "Italian",
-  "url": "http://www.michelmurabito.com",
+  "url": "https://www.michelmurabito.com",
   "birthPlace": {
     "@type": "Place",
     "address": {

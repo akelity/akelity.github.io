@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://michelmurabito.com
+
+# Sitemaps
+Sitemap: https://michelmurabito.com/sitemap.xml

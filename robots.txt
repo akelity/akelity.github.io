@@ -3,7 +3,7 @@ User-agent: *
 Allow: /
 
 # Host
-Host: https://michelmurabito.com
+Host: https://www.michelmurabito.com
 
 # Sitemaps
-Sitemap: https://michelmurabito.com/sitemap.xml
+Sitemap: https://www.michelmurabito.com/sitemap.xml

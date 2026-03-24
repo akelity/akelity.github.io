@@ -91,4 +91,4 @@ In 2026, with AI making developer trust harder to earn and more valuable than ev
 
 ---
 
-*If this resonates, I'd love to continue the conversation — find me on [LinkedIn](https://www.linkedin.com/in/michelmurabito/) where I write regularly about Developer Relations, Developer Experience, and the intersection of community and cloud-native. The conversation is just getting started.*
+*If this resonates, I'd love to continue the conversation — find me on [LinkedIn](https://www.linkedin.com/in/michel-murabito/) where I write regularly about Developer Relations, Developer Experience, and the intersection of community and cloud-native. The conversation is just getting started.*

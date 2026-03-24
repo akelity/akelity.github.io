@@ -1,0 +1,26 @@
+{
+  "@type": "Event",
+  "name": "DevMy on YouTube",
+  "startDate": "2024-03-13T18:30:00Z",
+  "endDate": "2024-03-13T20:00:00Z",
+  "image": "https://michelmurabito.com/conferences/2024/Michel_Murabito-DevMy-DevX-2024.webp",
+  "location": {
+    "@type": "VirtualLocation",
+    "url": "https://devmy.it/events/"
+  },
+  "url": "https://devmy.it/events/",
+  "organizer": {
+    "@type": "Organization",
+    "name": "DevMy",
+    "url": "https://devmy.it/"
+  },
+  "eventAttendanceMode": "OnlineEventAttendanceMode",
+  "workPerformed": [
+    {
+      "@type": "PresentationDigitalDocument",
+      "name": "Platform Engineering: DevX nel paese delle meraviglie",
+      "description": "With the goal of constantly improving the developer experience and increasing the productivity of development teams, Platform Engineering creates toolchains and workflows that enable self-service capabilities, reducing complexity and uncertainty in the software development and deployment phases. Together with Michel Murabito, we will explore the key concepts of Platform Engineering, its benefits, and how it can radically transform the approach to developing and managing applications in a cloud-native environment, thereby improving the overall efficiency of the team.",
+      "contentUrl": "https://www.youtube.com/watch?v=oVKIIdMNS6A"
+    }
+  ]
+}

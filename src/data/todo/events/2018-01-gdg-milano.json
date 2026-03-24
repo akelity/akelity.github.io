@@ -1,0 +1,29 @@
+{
+  "@type": "Event",
+  "name": "GDG Milano",
+  "startDate": "2018-01",
+  "endDate": "2018-01",
+  "location": {
+    "@type": "Place",
+    "address": {
+      "@type": "PostalAddress",
+      "addressLocality": "Milan",
+      "addressCountry": "Italy"
+    }
+  },
+  "url": "TODO",
+  "organizer": {
+    "@type": "Organization",
+    "name": "TODO",
+    "url": "TODO"
+  },
+  "eventAttendanceMode": "OfflineEventAttendanceMode",
+  "workPerformed": [
+    {
+      "@type": "PresentationDigitalDocument",
+      "name": "Superheroes apps con Angular e Firebase",
+      "description": "TODO",
+      "contentUrl": "TODO"
+    }
+  ]
+}

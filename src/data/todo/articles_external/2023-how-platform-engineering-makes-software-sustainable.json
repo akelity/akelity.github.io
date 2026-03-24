@@ -1,0 +1,16 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "How Platform Engineering Makes Software Sustainable",
+  "datePublished": "2023",
+  "description": "🇬🇧 How Platform Engineering Makes Software Sustainable",
+  "author": {
+    "@type": "Person",
+    "name": "Tuo Nome"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "DevOps Blog",
+    "url": "https://devops.com/how-platform-engineering-makes-software-sustainable/"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "@type": "Event",
+  "name": "Frontender Verona",
+  "startDate": "2018-10",
+  "endDate": "2018-10",
+  "location": {
+    "@type": "Place",
+    "address": {
+      "@type": "PostalAddress",
+      "addressLocality": "Verona",
+      "addressCountry": "Italy"
+    }
+  },
+  "url": "TODO",
+  "organizer": {
+    "@type": "Organization",
+    "name": "TODO",
+    "url": "TODO"
+  },
+  "eventAttendanceMode": "OfflineEventAttendanceMode",
+  "workPerformed": [
+    {
+      "@type": "PresentationDigitalDocument",
+      "name": "Build Modern (And Fast) Progressive WebApps",
+      "description": "TODO",
+      "contentUrl": "TODO"
+    }
+  ]
+}

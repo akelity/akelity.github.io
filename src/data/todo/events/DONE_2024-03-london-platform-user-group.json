@@ -1,0 +1,30 @@
+{
+  "@type": "Event",
+  "name": "London Platform User Group (LOPUG)",
+  "startDate": "2024-03-27T18:30:00Z",
+  "endDate": "2024-03-27T21:00:00Z",
+  "image": "https://michelmurabito.com/conferences/2024/Michel_Murabito-London-Platform-User-Group-LOPUG-2024.webp",
+  "location": {
+    "@type": "Place",
+    "address": {
+      "@type": "PostalAddress",
+      "addressLocality": "London",
+      "addressCountry": "UK"
+    }
+  },
+  "url": "https://www.meetup.com/it-IT/london-platform-user-group-lopug/events/299008965/",
+  "organizer": {
+    "@type": "Organization",
+    "name": "London Platform User Group",
+    "url": "https://www.meetup.com/it-IT/london-platform-user-group-lopug"
+  },
+  "eventAttendanceMode": "OfflineEventAttendanceMode",
+  "workPerformed": [
+    {
+      "@type": "PresentationDigitalDocument",
+      "name": "Highlights from KubeCon Europe 2024",
+      "description": "In this panel discussion we talked about the key takeaways from the event, covering its main content, emerging trends, and notable events. The session provided an in-depth overview of the latest developments in the Kubernetes ecosystem, sharing insights on the most significant presentations and discussions from KubeCon Europe 2024. It was an informative session that highlighted the evolving landscape of Kubernetes and its community.",
+      "contentUrl": ""
+    }
+  ]
+}

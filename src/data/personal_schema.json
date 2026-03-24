@@ -1,0 +1,153 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "name": "Michel Murabito",
+  "alternateName": "Mich Murabito",
+  "familyName": "Murabito",
+  "givenName": "Michel",
+  "birthDate": "1986-04-27",
+  "birthPlace": {
+    "@type": "Place",
+    "address": {
+      "@type": "PostalAddress",
+      "addressLocality": "Turin, Italy",
+      "postalCode": "10100"
+    }
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "addressLocality": "Milan, Italy",
+    "postalCode": "20100",
+    "addressCountry": "Italy"
+  },
+  "email": "michel@akelity.com",
+  "image": [
+    "https://michelmurabito.com/assets/img/michel-murabito/profile_1.jpeg",
+    "https://michelmurabito.com/assets/img/michel-murabito/profile_2.jpeg",
+    "https://michelmurabito.com/assets/img/michel-murabito/profile_3.webp",
+    "https://michelmurabito.com/assets/img/michel-murabito/profile_4.jpeg"
+  ],
+  "description": "Michel Murabito is a Developer Advocate at Mia-Platform, with a strong focus on Platform Engineering, Cloud Sustainability, and developer community engagement. His work spans multiple contributions to tech communities and advocacy for sustainable technology practices.",
+  "disambiguatingDescription": "Italian Developer Advocate, tech speaker, and contributor to open source projects, Michel Murabito specializes in Platform Engineering and Sustainability within Cloud Computing. Active across various tech communities and events, he promotes efficient, sustainable software development practices.",
+  "jobTitle": "Developer Advocate",
+  "worksFor": {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Mia-Platform",
+    "address": {
+      "@type": "PostalAddress",
+      "addressLocality": "Milan, Italy",
+      "postalCode": "20100",
+      "addressCountry": "Italy"
+    }
+  },
+  "affiliation": [
+    {
+      "@type": "Organization",
+      "name": "Cloud Native Computing Foundation"
+    },
+    {
+      "@type": "Organization",
+      "name": "DevNetwork"
+    },
+    {
+      "@type": "Organization",
+      "name": "Kubernetes Community Days Italy"
+    }
+  ],
+  "brand": {
+    "@type": "Brand",
+    "name": "Akelity",
+    "url": "https://github.com/Akelity"
+  },
+  "gender": "Male",
+  "nationality": {
+    "@type": "Country",
+    "name": "Italy"
+  },
+  "knowsLanguage": [
+    "Italian",
+    "English"
+  ],
+  "memberOf": [
+    {
+      "@type": "Organization",
+      "name": "GDG Italia"
+    },
+    {
+      "@type": "Organization",
+      "name": "Cloud Native Milano"
+    }
+  ],
+  "publishingPrinciples": "https://www.tuosito.com/publishing-principles",
+  "sameAs": [
+    "https://www.linkedin.com/in/mich-murabito",
+    "https://www.instagram.com/michel_murabito/",
+    "https://github.com/akelity",
+    "https://community.cncf.io/u/mwnwvg/",
+    "https://www.crunchbase.com/person/michel-murabito",
+    "https://www.reddit.com/user/akelity/",
+    "https://sessionize.com/mich/",
+    "https://medium.com/@mich.murabito",
+    "https://www.facebook.com/michelmurabito",
+    "https://twitter.com/michelmurabito",
+    "https://www.smau.it/relatori/michel.murabito",
+    "https://thenewstack.io/author/michelmurabito/",
+    "https://devops.com/author/michel-murabito/",
+    "https://www.threads.net/@michel_murabito",
+    "https://techspective.net/author/mmurabito/",
+    "https://sdtimes.com/author/michaelmu/"
+  ],
+  "knowsAbout": [
+    "Platform Engineering",
+    "Cloud-Native",
+    "Developer Experience",
+    "Software Architecture",
+    "Software Development",
+    "Coding",
+    "Cloud Sustainability",
+    "JavaScript",
+    "DevOps Practices",
+    "Developer Relations",
+    "Developer Advocacy",
+    "Public Speaking",
+    "Technical Writing and Documentation",
+    "Community Building and Management",
+    "Sustainability in Tech",
+    "Open Source",
+    "Tech Leadership",
+    "Agile Methodologies",
+    "Digital Transformation Strategies"
+  ],
+  "performerIn": {
+    "@type": "Event",
+    "name": "Tech Conference 2023",
+    "startDate": "2023-09-10",
+    "location": {
+      "@type": "Place",
+      "name": "Milano",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Via Roma 1",
+        "addressLocality": "Milano",
+        "addressRegion": "Lombardia",
+        "postalCode": "20100",
+        "addressCountry": "Italy"
+      }
+    }
+  },
+  "workData": [
+    {
+      "name": "Cloud Native Computing Foundation",
+      "roleName": "CNCF Ambassador"
+    },
+    {
+      "name": "DevNetwork",
+      "roleName": "Board Member"
+    },
+    {
+      "name": "Kubernetes Community Days Italy",
+      "roleName": "Organizer"
+    }
+  ]
+}

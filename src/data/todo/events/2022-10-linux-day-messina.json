@@ -1,0 +1,29 @@
+{
+  "@type": "Event",
+  "name": "Linux Day Messina",
+  "startDate": "2022-10",
+  "endDate": "2022-10",
+  "location": {
+    "@type": "Place",
+    "address": {
+      "@type": "PostalAddress",
+      "addressLocality": "Messina",
+      "addressCountry": "Italy"
+    }
+  },
+  "url": "TODO",
+  "organizer": {
+    "@type": "Organization",
+    "name": "TODO",
+    "url": "TODO"
+  },
+  "eventAttendanceMode": "OfflineEventAttendanceMode",
+  "workPerformed": [
+    {
+      "@type": "PresentationDigitalDocument",
+      "name": "Rönd: una piattaforma distribuita e open source per le tue policy di sicurezza",
+      "description": "TODO",
+      "contentUrl": "TODO"
+    }
+  ]
+}

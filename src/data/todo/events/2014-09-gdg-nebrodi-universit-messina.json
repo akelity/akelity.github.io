@@ -1,0 +1,29 @@
+{
+  "@type": "Event",
+  "name": "GDG Nebrodi & Università Messina",
+  "startDate": "2014-09",
+  "endDate": "2014-09",
+  "location": {
+    "@type": "Place",
+    "address": {
+      "@type": "PostalAddress",
+      "addressLocality": "Messina",
+      "addressCountry": "Italy"
+    }
+  },
+  "url": "TODO",
+  "organizer": {
+    "@type": "Organization",
+    "name": "TODO",
+    "url": "TODO"
+  },
+  "eventAttendanceMode": "OfflineEventAttendanceMode",
+  "workPerformed": [
+    {
+      "@type": "PresentationDigitalDocument",
+      "name": "Intro to AngularJS & Codelab",
+      "description": "TODO",
+      "contentUrl": "TODO"
+    }
+  ]
+}

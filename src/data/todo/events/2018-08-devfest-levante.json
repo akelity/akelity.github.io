@@ -1,0 +1,29 @@
+{
+  "@type": "Event",
+  "name": "DevFest Levante",
+  "startDate": "2018-08",
+  "endDate": "2018-08",
+  "location": {
+    "@type": "Place",
+    "address": {
+      "@type": "PostalAddress",
+      "addressLocality": "Torre dell'Orso",
+      "addressCountry": "Italy"
+    }
+  },
+  "url": "TODO",
+  "organizer": {
+    "@type": "Organization",
+    "name": "TODO",
+    "url": "TODO"
+  },
+  "eventAttendanceMode": "OfflineEventAttendanceMode",
+  "workPerformed": [
+    {
+      "@type": "PresentationDigitalDocument",
+      "name": "Firebase from zero to hero!",
+      "description": "TODO",
+      "contentUrl": "TODO"
+    }
+  ]
+}

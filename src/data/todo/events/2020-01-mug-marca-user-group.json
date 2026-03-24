@@ -1,0 +1,29 @@
+{
+  "@type": "Event",
+  "name": "MUG - Marca User Group",
+  "startDate": "2020-01",
+  "endDate": "2020-01",
+  "location": {
+    "@type": "Place",
+    "address": {
+      "@type": "PostalAddress",
+      "addressLocality": "Treviso",
+      "addressCountry": "Italy"
+    }
+  },
+  "url": "TODO",
+  "organizer": {
+    "@type": "Organization",
+    "name": "TODO",
+    "url": "TODO"
+  },
+  "eventAttendanceMode": "OfflineEventAttendanceMode",
+  "workPerformed": [
+    {
+      "@type": "PresentationDigitalDocument",
+      "name": "Firebase, a Serverless story!",
+      "description": "TODO",
+      "contentUrl": "TODO"
+    }
+  ]
+}

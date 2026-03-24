@@ -1,0 +1,29 @@
+{
+  "@type": "Event",
+  "name": "DevFest Med 2017 (Part 2)",
+  "startDate": "2017-11",
+  "endDate": "2017-11",
+  "location": {
+    "@type": "Place",
+    "address": {
+      "@type": "PostalAddress",
+      "addressLocality": "Catania",
+      "addressCountry": "Italy"
+    }
+  },
+  "url": "TODO",
+  "organizer": {
+    "@type": "Organization",
+    "name": "TODO",
+    "url": "TODO"
+  },
+  "eventAttendanceMode": "OfflineEventAttendanceMode",
+  "workPerformed": [
+    {
+      "@type": "PresentationDigitalDocument",
+      "name": "Become an JavaScript superhero Dev!",
+      "description": "TODO",
+      "contentUrl": "TODO"
+    }
+  ]
+}

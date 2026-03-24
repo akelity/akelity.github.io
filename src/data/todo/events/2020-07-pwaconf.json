@@ -1,0 +1,25 @@
+{
+  "@type": "Event",
+  "name": "PWAConf 2020",
+  "startDate": "2020-07",
+  "endDate": "2020-07",
+  "location": {
+    "@type": "VirtualLocation",
+    "url": "TODO"
+  },
+  "url": "TODO",
+  "organizer": {
+    "@type": "Organization",
+    "name": "TODO",
+    "url": "TODO"
+  },
+  "eventAttendanceMode": "OnlineEventAttendanceMode",
+  "workPerformed": [
+    {
+      "@type": "PresentationDigitalDocument",
+      "name": "Use Firebase in Progressive Web Apps",
+      "description": "TODO",
+      "contentUrl": "TODO"
+    }
+  ]
+}

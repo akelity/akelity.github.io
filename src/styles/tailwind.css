@@ -1,0 +1,6 @@
+@import 'custom.css';
+@import 'tailwindcss/base';
+@import 'tailwindcss/components';
+@import './prism.css';
+@import 'tailwindcss/utilities';
+

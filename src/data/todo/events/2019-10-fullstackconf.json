@@ -1,0 +1,29 @@
+{
+  "@type": "Event",
+  "name": "FullStackConf",
+  "startDate": "2019-10",
+  "endDate": "2019-10",
+  "location": {
+    "@type": "Place",
+    "address": {
+      "@type": "PostalAddress",
+      "addressLocality": "Turin",
+      "addressCountry": "Italy"
+    }
+  },
+  "url": "TODO",
+  "organizer": {
+    "@type": "Organization",
+    "name": "TODO",
+    "url": "TODO"
+  },
+  "eventAttendanceMode": "OfflineEventAttendanceMode",
+  "workPerformed": [
+    {
+      "@type": "PresentationDigitalDocument",
+      "name": "Firebase: a serverless story",
+      "description": "TODO",
+      "contentUrl": "TODO"
+    }
+  ]
+}

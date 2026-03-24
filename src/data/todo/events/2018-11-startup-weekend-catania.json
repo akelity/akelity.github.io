@@ -1,0 +1,29 @@
+{
+  "@type": "Event",
+  "name": "Startup Weekend Catania 2018",
+  "startDate": "2018-11",
+  "endDate": "2018-11",
+  "location": {
+    "@type": "Place",
+    "address": {
+      "@type": "PostalAddress",
+      "addressLocality": "Catania",
+      "addressCountry": "Italy"
+    }
+  },
+  "url": "TODO",
+  "organizer": {
+    "@type": "Organization",
+    "name": "TODO",
+    "url": "TODO"
+  },
+  "eventAttendanceMode": "OfflineEventAttendanceMode",
+  "workPerformed": [
+    {
+      "@type": "PresentationDigitalDocument",
+      "name": "Mentor",
+      "description": "TODO",
+      "contentUrl": "TODO"
+    }
+  ]
+}

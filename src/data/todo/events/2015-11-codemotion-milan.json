@@ -1,0 +1,29 @@
+{
+  "@type": "Event",
+  "name": "Codemotion Milan",
+  "startDate": "2015-11",
+  "endDate": "2015-11",
+  "location": {
+    "@type": "Place",
+    "address": {
+      "@type": "PostalAddress",
+      "addressLocality": "Milan",
+      "addressCountry": "Italy"
+    }
+  },
+  "url": "TODO",
+  "organizer": {
+    "@type": "Organization",
+    "name": "TODO",
+    "url": "TODO"
+  },
+  "eventAttendanceMode": "OfflineEventAttendanceMode",
+  "workPerformed": [
+    {
+      "@type": "PresentationDigitalDocument",
+      "name": "Costruire applicazioni Real Time con Polymer e Firebase",
+      "description": "TODO",
+      "contentUrl": "TODO"
+    }
+  ]
+}

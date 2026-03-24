@@ -1,0 +1,29 @@
+{
+  "@type": "Event",
+  "name": "Dutch Kubernetes & Cloud-Native Meetup",
+  "startDate": "2023-09",
+  "endDate": "2023-09",
+  "location": {
+    "@type": "Place",
+    "address": {
+      "@type": "PostalAddress",
+      "addressLocality": "Amsterdam",
+      "addressCountry": "NL"
+    }
+  },
+  "url": "TODO",
+  "organizer": {
+    "@type": "Organization",
+    "name": "TODO",
+    "url": "TODO"
+  },
+  "eventAttendanceMode": "OfflineEventAttendanceMode",
+  "workPerformed": [
+    {
+      "@type": "PresentationDigitalDocument",
+      "name": "How to stop Firefighting in DevOps Teams and improve Developer Experience?",
+      "description": "TODO",
+      "contentUrl": "TODO"
+    }
+  ]
+}

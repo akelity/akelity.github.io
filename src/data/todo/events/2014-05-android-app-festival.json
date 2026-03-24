@@ -1,0 +1,29 @@
+{
+  "@type": "Event",
+  "name": "Android App Festival",
+  "startDate": "2014-05",
+  "endDate": "2014-05",
+  "location": {
+    "@type": "Place",
+    "address": {
+      "@type": "PostalAddress",
+      "addressLocality": "Santo Stefano di Camastra",
+      "addressCountry": "Italy"
+    }
+  },
+  "url": "TODO",
+  "organizer": {
+    "@type": "Organization",
+    "name": "TODO",
+    "url": "TODO"
+  },
+  "eventAttendanceMode": "OfflineEventAttendanceMode",
+  "workPerformed": [
+    {
+      "@type": "PresentationDigitalDocument",
+      "name": "Costruire Android App tramite AngularJs",
+      "description": "TODO",
+      "contentUrl": "TODO"
+    }
+  ]
+}

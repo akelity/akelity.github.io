@@ -1,0 +1,29 @@
+{
+  "@type": "Event",
+  "name": "COME TO CODE",
+  "startDate": "2022-10",
+  "endDate": "2022-10",
+  "location": {
+    "@type": "Place",
+    "address": {
+      "@type": "PostalAddress",
+      "addressLocality": "Pignola",
+      "addressCountry": "Italy"
+    }
+  },
+  "url": "TODO",
+  "organizer": {
+    "@type": "Organization",
+    "name": "TODO",
+    "url": "TODO"
+  },
+  "eventAttendanceMode": "OfflineEventAttendanceMode",
+  "workPerformed": [
+    {
+      "@type": "PresentationDigitalDocument",
+      "name": "Orchestrare Micro-frontend con micro-lc",
+      "description": "TODO",
+      "contentUrl": "TODO"
+    }
+  ]
+}

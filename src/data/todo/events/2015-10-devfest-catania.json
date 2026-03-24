@@ -1,0 +1,29 @@
+{
+  "@type": "Event",
+  "name": "DevFest Catania",
+  "startDate": "2015-10",
+  "endDate": "2015-10",
+  "location": {
+    "@type": "Place",
+    "address": {
+      "@type": "PostalAddress",
+      "addressLocality": "Catania",
+      "addressCountry": "Italy"
+    }
+  },
+  "url": "TODO",
+  "organizer": {
+    "@type": "Organization",
+    "name": "TODO",
+    "url": "TODO"
+  },
+  "eventAttendanceMode": "OfflineEventAttendanceMode",
+  "workPerformed": [
+    {
+      "@type": "PresentationDigitalDocument",
+      "name": "Costruire applicazioni Real Time con Polymer e Firebase",
+      "description": "TODO",
+      "contentUrl": "TODO"
+    }
+  ]
+}

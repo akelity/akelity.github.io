@@ -1,0 +1,35 @@
+{
+  "@type": "Event",
+  "name": "GDG DevFest Urbino 2019",
+  "startDate": "2019-11",
+  "endDate": "2019-11",
+  "location": {
+    "@type": "Place",
+    "address": {
+      "@type": "PostalAddress",
+      "addressLocality": "Urbino",
+      "addressCountry": "Italy"
+    }
+  },
+  "url": "TODO",
+  "organizer": {
+    "@type": "Organization",
+    "name": "TODO",
+    "url": "TODO"
+  },
+  "eventAttendanceMode": "OfflineEventAttendanceMode",
+  "workPerformed": [
+    {
+      "@type": "PresentationDigitalDocument",
+      "name": "Firebase functions: il lato oscuro ed il lato chiaro della Forza",
+      "description": "TODO",
+      "contentUrl": "TODO"
+    },
+    {
+      "@type": "PresentationDigitalDocument",
+      "name": "Superheroes & Superpowers (per sviluppatori Angular)!",
+      "description": "TODO",
+      "contentUrl": "TODO"
+    }
+  ]
+}

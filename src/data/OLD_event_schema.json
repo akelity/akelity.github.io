@@ -1,0 +1,2454 @@
+[
+  {
+    "@type": "Event",
+    "name": "MLOps @localhost - Remote 2024",
+    "startDate": "2024-05",
+    "endDate": "2024-05",
+    "location": {
+      "@type": "VirtualLocation",
+      "url": "TODO"
+    },
+    "url": "TODO",
+    "organizer": {
+      "@type": "Organization",
+      "name": "TODO",
+      "url": "TODO"
+    },
+    "eventAttendanceMode": "OnlineEventAttendanceMode",
+    "workPerformed": [
+      {
+        "@type": "PresentationDigitalDocument",
+        "name": "Compose GenAI Apps: May the Force Be with Your Data and Models",
+        "description": "TODO",
+        "contentUrl": "TODO"
+      }
+    ]
+  },
+  {
+    "@type": "Event",
+    "name": "KubeCon + CloudNativeCon Europe - Booth App Tag Delivery 2024",
+    "startDate": "2024-03",
+    "endDate": "2024-03",
+    "location": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Paris",
+        "addressCountry": "France"
+      }
+    },
+    "url": "TODO",
+    "organizer": {
+      "@type": "Organization",
+      "name": "TODO",
+      "url": "TODO"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "workPerformed": [
+      {
+        "@type": "PresentationDigitalDocument",
+        "name": "Empowering and Accelerating Cloud-Native Development with Buildpacks.io",
+        "description": "TODO",
+        "contentUrl": "TODO"
+      }
+    ]
+  },
+  {
+    "@type": "Event",
+    "name": "Cloud Native London - Remote 2024",
+    "startDate": "2024-04",
+    "endDate": "2024-04",
+    "location": {
+      "@type": "VirtualLocation",
+      "url": "TODO"
+    },
+    "url": "TODO",
+    "organizer": {
+      "@type": "Organization",
+      "name": "TODO",
+      "url": "TODO"
+    },
+    "eventAttendanceMode": "OnlineEventAttendanceMode",
+    "workPerformed": [
+      {
+        "@type": "PresentationDigitalDocument",
+        "name": "How to turn Cognitive Load into creativity",
+        "description": "TODO",
+        "contentUrl": "TODO"
+      }
+    ]
+  },
+  {
+    "@type": "Event",
+    "name": "London Platform User Group",
+    "startDate": "2024-03",
+    "endDate": "2024-03",
+    "location": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "London",
+        "addressCountry": "UK"
+      }
+    },
+    "url": "TODO",
+    "organizer": {
+      "@type": "Organization",
+      "name": "TODO",
+      "url": "TODO"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "workPerformed": [
+      {
+        "@type": "PresentationDigitalDocument",
+        "name": "Highlights from KubeCon Europe 2024",
+        "description": "TODO",
+        "contentUrl": "TODO"
+      }
+    ]
+  },
+  {
+    "@type": "Event",
+    "name": "DevMy - Remote 2024",
+    "startDate": "2024-03",
+    "endDate": "2024-03",
+    "location": {
+      "@type": "VirtualLocation",
+      "url": "TODO"
+    },
+    "url": "TODO",
+    "organizer": {
+      "@type": "Organization",
+      "name": "TODO",
+      "url": "TODO"
+    },
+    "eventAttendanceMode": "OnlineEventAttendanceMode",
+    "workPerformed": [
+      {
+        "@type": "PresentationDigitalDocument",
+        "name": "Platform Engineering: DevX nel paese delle meraviglie",
+        "description": "TODO",
+        "contentUrl": "TODO"
+      }
+    ]
+  },
+  {
+    "@type": "Event",
+    "name": "TECH JOBS FAIR - Remote 2024",
+    "startDate": "2024-02",
+    "endDate": "2024-02",
+    "location": {
+      "@type": "VirtualLocation",
+      "url": "TODO"
+    },
+    "url": "TODO",
+    "organizer": {
+      "@type": "Organization",
+      "name": "TODO",
+      "url": "TODO"
+    },
+    "eventAttendanceMode": "OnlineEventAttendanceMode",
+    "workPerformed": [
+      {
+        "@type": "PresentationDigitalDocument",
+        "name": "Un Viaggio nell'Universo della Developer Experience",
+        "description": "TODO",
+        "contentUrl": "TODO"
+      }
+    ]
+  },
+  {
+    "@type": "Event",
+    "name": "DevFest Mediterranean 2024",
+    "startDate": "2024-01",
+    "endDate": "2024-01",
+    "location": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Palermo",
+        "addressCountry": "IT"
+      }
+    },
+    "url": "TODO",
+    "organizer": {
+      "@type": "Organization",
+      "name": "TODO",
+      "url": "TODO"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "workPerformed": [
+      {
+        "@type": "PresentationDigitalDocument",
+        "name": "Trasformare il carico cognitivo in creatività",
+        "description": "TODO",
+        "contentUrl": "TODO"
+      }
+    ]
+  },
+  {
+    "@type": "Event",
+    "name": "eXtreme Programming User Group Bergamo",
+    "startDate": "2023-12",
+    "endDate": "2023-12",
+    "location": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Bergamo",
+        "addressCountry": "IT"
+      }
+    },
+    "url": "TODO",
+    "organizer": {
+      "@type": "Organization",
+      "name": "TODO",
+      "url": "TODO"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "workPerformed": [
+      {
+        "@type": "PresentationDigitalDocument",
+        "name": "Guida Galattica per Platform Engineer (e non) - The Galactic Guide for Platform Engineers (and others)",
+        "description": "TODO",
+        "contentUrl": "TODO"
+      }
+    ]
+  },
+  {
+    "@type": "Event",
+    "name": "DevFest Venezia 2023",
+    "startDate": "2023-12",
+    "endDate": "2023-12",
+    "location": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Venice",
+        "addressCountry": "IT"
+      }
+    },
+    "url": "TODO",
+    "organizer": {
+      "@type": "Organization",
+      "name": "TODO",
+      "url": "TODO"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "workPerformed": [
+      {
+        "@type": "PresentationDigitalDocument",
+        "name": "Guida Galattica per Platform Engineer (e non) - The Galactic Guide for Platform Engineers (and others)",
+        "description": "TODO",
+        "contentUrl": "TODO"
+      }
+    ]
+  },
+  {
+    "@type": "Event",
+    "name": "DevFest Milano 2023",
+    "startDate": "2023-11",
+    "endDate": "2023-11",
+    "location": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Milan",
+        "addressCountry": "IT"
+      }
+    },
+    "url": "TODO",
+    "organizer": {
+      "@type": "Organization",
+      "name": "TODO",
+      "url": "TODO"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "workPerformed": [
+      {
+        "@type": "PresentationDigitalDocument",
+        "name": "Guida Galattica per Platform Engineer (e non) - The Galactic Guide for Platform Engineers (and others)",
+        "description": "TODO",
+        "contentUrl": "TODO"
+      }
+    ]
+  },
+  {
+    "@type": "Event",
+    "name": "DevFest Pescara 2023",
+    "startDate": "2023-11",
+    "endDate": "2023-11",
+    "location": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Pescara",
+        "addressCountry": "IT"
+      }
+    },
+    "url": "TODO",
+    "organizer": {
+      "@type": "Organization",
+      "name": "TODO",
+      "url": "TODO"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "workPerformed": [
+      {
+        "@type": "PresentationDigitalDocument",
+        "name": "Guida Galattica per Platform Engineer (e non) - The Galactic Guide for Platform Engineers (and others)",
+        "description": "TODO",
+        "contentUrl": "TODO"
+      }
+    ]
+  },
+  {
+    "@type": "Event",
+    "name": "CloudDay 2023",
+    "startDate": "2023-11",
+    "endDate": "2023-11",
+    "location": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Milan",
+        "addressCountry": "IT"
+      }
+    },
+    "url": "TODO",
+    "organizer": {
+      "@type": "Organization",
+      "name": "TODO",
+      "url": "TODO"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "workPerformed": [
+      {
+        "@type": "PresentationDigitalDocument",
+        "name": "Guida Galattica per Platform Engineer (e non) - The Galactic Guide for Platform Engineers (and others)",
+        "description": "TODO",
+        "contentUrl": "TODO"
+      }
+    ]
+  },
+  {
+    "@type": "Event",
+    "name": "Dutch Kubernetes & Cloud-Native Meetup",
+    "startDate": "2023-09",
+    "endDate": "2023-09",
+    "location": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Amsterdam",
+        "addressCountry": "NL"
+      }
+    },
+    "url": "TODO",
+    "organizer": {
+      "@type": "Organization",
+      "name": "TODO",
+      "url": "TODO"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "workPerformed": [
+      {
+        "@type": "PresentationDigitalDocument",
+        "name": "How to stop Firefighting in DevOps Teams and improve Developer Experience?",
+        "description": "TODO",
+        "contentUrl": "TODO"
+      }
+    ]
+  },
+  {
+    "@type": "Event",
+    "name": "DevOps Time - Podcast",
+    "startDate": "2023-09",
+    "endDate": "2023-09",
+    "location": {
+      "@type": "VirtualLocation",
+      "url": "TODO"
+    },
+    "url": "TODO",
+    "organizer": {
+      "@type": "Organization",
+      "name": "TODO",
+      "url": "TODO"
+    },
+    "eventAttendanceMode": "OnlineEventAttendanceMode",
+    "workPerformed": [
+      {
+        "@type": "PresentationDigitalDocument",
+        "name": "Esplorando il Platform Engineering",
+        "description": "TODO",
+        "contentUrl": "TODO"
+      }
+    ]
+  },
+  {
+    "@type": "Event",
+    "name": "Cloud Native Podcast",
+    "startDate": "2023-07",
+    "endDate": "2023-07",
+    "location": {
+      "@type": "VirtualLocation",
+      "url": "TODO"
+    },
+    "url": "TODO",
+    "organizer": {
+      "@type": "Organization",
+      "name": "TODO",
+      "url": "TODO"
+    },
+    "eventAttendanceMode": "OnlineEventAttendanceMode",
+    "workPerformed": [
+      {
+        "@type": "PresentationDigitalDocument",
+        "name": "Decoding Platform Engineering: Build vs Buy Dilemma",
+        "description": "TODO",
+        "contentUrl": "TODO"
+      }
+    ]
+  },
+  {
+    "@type": "Event",
+    "name": "CloudConf Torino 2023",
+    "startDate": "2023-05",
+    "endDate": "2023-05",
+    "location": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Turin",
+        "addressCountry": "IT"
+      }
+    },
+    "url": "TODO",
+    "organizer": {
+      "@type": "Organization",
+      "name": "TODO",
+      "url": "TODO"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "workPerformed": [
+      {
+        "@type": "PresentationDigitalDocument",
+        "name": "Platform Engineering: L'Arte di Creare Ecosistemi Digitali",
+        "description": "TODO",
+        "contentUrl": "TODO"
+      }
+    ]
+  },
+  {
+    "@type": "Event",
+    "name": "Pycon (IT) 2023",
+    "startDate": "2023-05",
+    "endDate": "2023-05",
+    "location": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Florence",
+        "addressCountry": "IT"
+      }
+    },
+    "url": "TODO",
+    "organizer": {
+      "@type": "Organization",
+      "name": "TODO",
+      "url": "TODO"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "workPerformed": [
+      {
+        "@type": "PresentationDigitalDocument",
+        "name": "Nessuno fa Continuous Delivery: dimostrami il contrario!",
+        "description": "TODO",
+        "contentUrl": "TODO"
+      }
+    ]
+  },
+  {
+    "@type": "Event",
+    "name": "dotNET{podcast}",
+    "startDate": "2023-02",
+    "endDate": "2023-02",
+    "location": {
+      "@type": "VirtualLocation",
+      "url": "TODO"
+    },
+    "url": "TODO",
+    "organizer": {
+      "@type": "Organization",
+      "name": "TODO",
+      "url": "TODO"
+    },
+    "eventAttendanceMode": "OnlineEventAttendanceMode",
+    "workPerformed": [
+      {
+        "@type": "PresentationDigitalDocument",
+        "name": "A chat about Platform Engineering",
+        "description": "TODO",
+        "contentUrl": "TODO"
+      }
+    ]
+  },
+  {
+    "@type": "Event",
+    "name": "KCD UK 2022",
+    "startDate": "2022-11",
+    "endDate": "2022-11",
+    "location": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "London",
+        "addressCountry": "UK"
+      }
+    },
+    "url": "TODO",
+    "organizer": {
+      "@type": "Organization",
+      "name": "TODO",
+      "url": "TODO"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "workPerformed": [
+      {
+        "@type": "PresentationDigitalDocument",
+        "name": "Open Source Security Enforcement over your APIs",
+        "description": "TODO",
+        "contentUrl": "TODO"
+      }
+    ]
+  },
+  {
+    "@type": "Event",
+    "name": "DevFest Pescara 2022",
+    "startDate": "2022-11",
+    "endDate": "2022-11",
+    "location": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Pescara",
+        "addressCountry": "Italy"
+      }
+    },
+    "url": "TODO",
+    "organizer": {
+      "@type": "Organization",
+      "name": "TODO",
+      "url": "TODO"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "workPerformed": [
+      {
+        "@type": "PresentationDigitalDocument",
+        "name": "kube-green: aumenta la sostenibilità del software cloud riducendo l'imponta di CO2",
+        "description": "TODO",
+        "contentUrl": "TODO"
+      }
+    ]
+  },
+  {
+    "@type": "Event",
+    "name": "STEM Day 2022",
+    "startDate": "2022-10",
+    "endDate": "2022-10",
+    "location": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Milan",
+        "addressCountry": "Italy"
+      }
+    },
+    "url": "TODO",
+    "organizer": {
+      "@type": "Organization",
+      "name": "TODO",
+      "url": "TODO"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "workPerformed": [
+      {
+        "@type": "PresentationDigitalDocument",
+        "name": "Creiamo una APP di realtime geo tracking!",
+        "description": "TODO",
+        "contentUrl": "TODO"
+      }
+    ]
+  },
+  {
+    "@type": "Event",
+    "name": "DevFest Triveneto",
+    "startDate": "2022-10",
+    "endDate": "2022-10",
+    "location": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Venice",
+        "addressCountry": "Italy"
+      }
+    },
+    "url": "TODO",
+    "organizer": {
+      "@type": "Organization",
+      "name": "TODO",
+      "url": "TODO"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "workPerformed": [
+      {
+        "@type": "PresentationDigitalDocument",
+        "name": "Rönd: una piattaforma distribuita e open source per le tue policy di sicurezza",
+        "description": "TODO",
+        "contentUrl": "TODO"
+      }
+    ]
+  },
+  {
+    "@type": "Event",
+    "name": "Codemotion Milan 2022",
+    "startDate": "2022-10",
+    "endDate": "2022-10",
+    "location": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Milan",
+        "addressCountry": "Italy"
+      }
+    },
+    "url": "TODO",
+    "organizer": {
+      "@type": "Organization",
+      "name": "TODO",
+      "url": "TODO"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "workPerformed": [
+      {
+        "@type": "PresentationDigitalDocument",
+        "name": "DEVulgari eloquentia: tra content creation e personal branding",
+        "description": "TODO",
+        "contentUrl": "TODO"
+      }
+    ]
+  },
+  {
+    "@type": "Event",
+    "name": "CloudConf 2022",
+    "startDate": "2022-10",
+    "endDate": "2022-10",
+    "location": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Turin",
+        "addressCountry": "Italy"
+      }
+    },
+    "url": "TODO",
+    "organizer": {
+      "@type": "Organization",
+      "name": "TODO",
+      "url": "TODO"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "workPerformed": [
+      {
+        "@type": "PresentationDigitalDocument",
+        "name": "Rönd: una piattaforma distribuita e open source per le tue policy di sicurezza",
+        "description": "TODO",
+        "contentUrl": "TODO"
+      }
+    ]
+  },
+  {
+    "@type": "Event",
+    "name": "Linux Day Messina",
+    "startDate": "2022-10",
+    "endDate": "2022-10",
+    "location": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Messina",
+        "addressCountry": "Italy"
+      }
+    },
+    "url": "TODO",
+    "organizer": {
+      "@type": "Organization",
+      "name": "TODO",
+      "url": "TODO"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "workPerformed": [
+      {
+        "@type": "PresentationDigitalDocument",
+        "name": "Rönd: una piattaforma distribuita e open source per le tue policy di sicurezza",
+        "description": "TODO",
+        "contentUrl": "TODO"
+      }
+    ]
+  },
+  {
+    "@type": "Event",
+    "name": "GrUSP",
+    "startDate": "2022-10",
+    "endDate": "2022-10",
+    "location": {
+      "@type": "VirtualLocation",
+      "url": "TODO"
+    },
+    "url": "TODO",
+    "organizer": {
+      "@type": "Organization",
+      "name": "TODO",
+      "url": "TODO"
+    },
+    "eventAttendanceMode": "OnlineEventAttendanceMode",
+    "workPerformed": [
+      {
+        "@type": "PresentationDigitalDocument",
+        "name": "micro-lc: come orchestrare Micro-frontend",
+        "description": "TODO",
+        "contentUrl": "TODO"
+      }
+    ]
+  },
+  {
+    "@type": "Event",
+    "name": "Pointer Podcast",
+    "startDate": "2022-10",
+    "endDate": "2022-10",
+    "location": {
+      "@type": "VirtualLocation",
+      "url": "TODO"
+    },
+    "url": "TODO",
+    "organizer": {
+      "@type": "Organization",
+      "name": "TODO",
+      "url": "TODO"
+    },
+    "eventAttendanceMode": "OnlineEventAttendanceMode",
+    "workPerformed": [
+      {
+        "@type": "PresentationDigitalDocument",
+        "name": "Vita da sviluppatore",
+        "description": "TODO",
+        "contentUrl": "TODO"
+      }
+    ]
+  },
+  {
+    "@type": "Event",
+    "name": "COME TO CODE",
+    "startDate": "2022-10",
+    "endDate": "2022-10",
+    "location": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Pignola",
+        "addressCountry": "Italy"
+      }
+    },
+    "url": "TODO",
+    "organizer": {
+      "@type": "Organization",
+      "name": "TODO",
+      "url": "TODO"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "workPerformed": [
+      {
+        "@type": "PresentationDigitalDocument",
+        "name": "Orchestrare Micro-frontend con micro-lc",
+        "description": "TODO",
+        "contentUrl": "TODO"
+      }
+    ]
+  },
+  {
+    "@type": "Event",
+    "name": "Codemotion Workshop Fest",
+    "startDate": "2022-05",
+    "endDate": "2022-05",
+    "location": {
+      "@type": "VirtualLocation",
+      "url": "TODO"
+    },
+    "url": "TODO",
+    "organizer": {
+      "@type": "Organization",
+      "name": "TODO",
+      "url": "TODO"
+    },
+    "eventAttendanceMode": "OnlineEventAttendanceMode",
+    "workPerformed": [
+      {
+        "@type": "PresentationDigitalDocument",
+        "name": "Orchestrare Micro-frontend con micro-lc",
+        "description": "TODO",
+        "contentUrl": "TODO"
+      }
+    ]
+  },
+  {
+    "@type": "Event",
+    "name": "Tech Italia Meetup",
+    "startDate": "2022-04",
+    "endDate": "2022-04",
+    "location": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Florence",
+        "addressCountry": "Italy"
+      }
+    },
+    "url": "TODO",
+    "organizer": {
+      "@type": "Organization",
+      "name": "TODO",
+      "url": "TODO"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "workPerformed": [
+      {
+        "@type": "PresentationDigitalDocument",
+        "name": "Orchestrare Micro-frontend con micro-lc",
+        "description": "TODO",
+        "contentUrl": "TODO"
+      }
+    ]
+  },
+  {
+    "@type": "Event",
+    "name": "Tutored",
+    "startDate": "2022-03",
+    "endDate": "2022-03",
+    "location": {
+      "@type": "VirtualLocation",
+      "url": "TODO"
+    },
+    "url": "TODO",
+    "organizer": {
+      "@type": "Organization",
+      "name": "TODO",
+      "url": "TODO"
+    },
+    "eventAttendanceMode": "OnlineEventAttendanceMode",
+    "workPerformed": [
+      {
+        "@type": "PresentationDigitalDocument",
+        "name": "Il lavoro dei tuoi sogni in ambito STEM? Guida pratica su come trovarlo, ottenerlo e mantenerlo",
+        "description": "TODO",
+        "contentUrl": "TODO"
+      }
+    ]
+  },
+  {
+    "@type": "Event",
+    "name": "DevFest XMAS",
+    "startDate": "2021-12",
+    "endDate": "2021-12",
+    "location": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Turin",
+        "addressCountry": "Italy"
+      }
+    },
+    "url": "TODO",
+    "organizer": {
+      "@type": "Organization",
+      "name": "TODO",
+      "url": "TODO"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "workPerformed": [
+      {
+        "@type": "PresentationDigitalDocument",
+        "name": "Orchestrare Micro-frontend con micro-lc",
+        "description": "TODO",
+        "contentUrl": "TODO"
+      }
+    ]
+  },
+  {
+    "@type": "Event",
+    "name": "API Date",
+    "startDate": "2021-11",
+    "endDate": "2021-11",
+    "location": {
+      "@type": "VirtualLocation",
+      "url": "TODO"
+    },
+    "url": "TODO",
+    "organizer": {
+      "@type": "Organization",
+      "name": "TODO",
+      "url": "TODO"
+    },
+    "eventAttendanceMode": "OnlineEventAttendanceMode",
+    "workPerformed": [
+      {
+        "@type": "PresentationDigitalDocument",
+        "name": "Digital Integration Hub (DIH) come strategia vincente per i problemi di oggi e di domani",
+        "description": "TODO",
+        "contentUrl": "TODO"
+      }
+    ]
+  },
+  {
+    "@type": "Event",
+    "name": "DevCast by Codemotion",
+    "startDate": "2021-11",
+    "endDate": "2021-11",
+    "location": {
+      "@type": "VirtualLocation",
+      "url": "TODO"
+    },
+    "url": "TODO",
+    "organizer": {
+      "@type": "Organization",
+      "name": "TODO",
+      "url": "TODO"
+    },
+    "eventAttendanceMode": "OnlineEventAttendanceMode",
+    "workPerformed": [
+      {
+        "@type": "PresentationDigitalDocument",
+        "name": "Orchestrare Micro-frontend con micro-lc",
+        "description": "TODO",
+        "contentUrl": "TODO"
+      }
+    ]
+  },
+  {
+    "@type": "Event",
+    "name": "DianaCodes",
+    "startDate": "2021-06",
+    "endDate": "2021-06",
+    "location": {
+      "@type": "VirtualLocation",
+      "url": "TODO"
+    },
+    "url": "TODO",
+    "organizer": {
+      "@type": "Organization",
+      "name": "TODO",
+      "url": "TODO"
+    },
+    "eventAttendanceMode": "OnlineEventAttendanceMode",
+    "workPerformed": [
+      {
+        "@type": "PresentationDigitalDocument",
+        "name": "Vita da Developer",
+        "description": "TODO",
+        "contentUrl": "TODO"
+      }
+    ]
+  },
+  {
+    "@type": "Event",
+    "name": "Crafted Software",
+    "startDate": "2021-03",
+    "endDate": "2021-03",
+    "location": {
+      "@type": "VirtualLocation",
+      "url": "TODO"
+    },
+    "url": "TODO",
+    "organizer": {
+      "@type": "Organization",
+      "name": "TODO",
+      "url": "TODO"
+    },
+    "eventAttendanceMode": "OnlineEventAttendanceMode",
+    "workPerformed": [
+      {
+        "@type": "PresentationDigitalDocument",
+        "name": "Realtime geo tracking con Typescript e Firebase",
+        "description": "TODO",
+        "contentUrl": "TODO"
+      }
+    ]
+  },
+  {
+    "@type": "Event",
+    "name": "GitBar",
+    "startDate": "2020-11",
+    "endDate": "2020-11",
+    "location": {
+      "@type": "VirtualLocation",
+      "url": "TODO"
+    },
+    "url": "TODO",
+    "organizer": {
+      "@type": "Organization",
+      "name": "TODO",
+      "url": "TODO"
+    },
+    "eventAttendanceMode": "OnlineEventAttendanceMode",
+    "workPerformed": [
+      {
+        "@type": "PresentationDigitalDocument",
+        "name": "Programmazione, community e mentoring",
+        "description": "TODO",
+        "contentUrl": "TODO"
+      }
+    ]
+  },
+  {
+    "@type": "Event",
+    "name": "CloudConf",
+    "startDate": "2020-11",
+    "endDate": "2020-11",
+    "location": {
+      "@type": "VirtualLocation",
+      "url": "TODO"
+    },
+    "url": "TODO",
+    "organizer": {
+      "@type": "Organization",
+      "name": "TODO",
+      "url": "TODO"
+    },
+    "eventAttendanceMode": "OnlineEventAttendanceMode",
+    "workPerformed": [
+      {
+        "@type": "PresentationDigitalDocument",
+        "name": "Firebase: a serverless story",
+        "description": "TODO",
+        "contentUrl": "TODO"
+      }
+    ]
+  },
+  {
+    "@type": "Event",
+    "name": "DevFest Italia 2020",
+    "startDate": "2020-10",
+    "endDate": "2020-10",
+    "location": {
+      "@type": "VirtualLocation",
+      "url": "TODO"
+    },
+    "url": "TODO",
+    "organizer": {
+      "@type": "Organization",
+      "name": "TODO",
+      "url": "TODO"
+    },
+    "eventAttendanceMode": "OnlineEventAttendanceMode",
+    "workPerformed": [
+      {
+        "@type": "PresentationDigitalDocument",
+        "name": "Firebase: a serverless story",
+        "description": "TODO",
+        "contentUrl": "TODO"
+      }
+    ]
+  },
+  {
+    "@type": "Event",
+    "name": "PWAConf 2020",
+    "startDate": "2020-07",
+    "endDate": "2020-07",
+    "location": {
+      "@type": "VirtualLocation",
+      "url": "TODO"
+    },
+    "url": "TODO",
+    "organizer": {
+      "@type": "Organization",
+      "name": "TODO",
+      "url": "TODO"
+    },
+    "eventAttendanceMode": "OnlineEventAttendanceMode",
+    "workPerformed": [
+      {
+        "@type": "PresentationDigitalDocument",
+        "name": "Use Firebase in Progressive Web Apps",
+        "description": "TODO",
+        "contentUrl": "TODO"
+      }
+    ]
+  },
+  {
+    "@type": "Event",
+    "name": "GDG DevParty Together",
+    "startDate": "2020-05",
+    "endDate": "2020-05",
+    "location": {
+      "@type": "VirtualLocation",
+      "url": "TODO"
+    },
+    "url": "TODO",
+    "organizer": {
+      "@type": "Organization",
+      "name": "TODO",
+      "url": "TODO"
+    },
+    "eventAttendanceMode": "OnlineEventAttendanceMode",
+    "workPerformed": [
+      {
+        "@type": "PresentationDigitalDocument",
+        "name": "Algoritmi e Software Etici",
+        "description": "TODO",
+        "contentUrl": "TODO"
+      }
+    ]
+  },
+  {
+    "@type": "Event",
+    "name": "MUG - Marca User Group",
+    "startDate": "2020-01",
+    "endDate": "2020-01",
+    "location": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Treviso",
+        "addressCountry": "Italy"
+      }
+    },
+    "url": "TODO",
+    "organizer": {
+      "@type": "Organization",
+      "name": "TODO",
+      "url": "TODO"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "workPerformed": [
+      {
+        "@type": "PresentationDigitalDocument",
+        "name": "Firebase, a Serverless story!",
+        "description": "TODO",
+        "contentUrl": "TODO"
+      }
+    ]
+  },
+  {
+    "@type": "Event",
+    "name": "GDG Cloud Milano",
+    "startDate": "2019-12",
+    "endDate": "2019-12",
+    "location": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Milan",
+        "addressCountry": "Italy"
+      }
+    },
+    "url": "TODO",
+    "organizer": {
+      "@type": "Organization",
+      "name": "TODO",
+      "url": "TODO"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "workPerformed": [
+      {
+        "@type": "PresentationDigitalDocument",
+        "name": "Firebase Functions - Il lato chiaro e scuro della Forza",
+        "description": "TODO",
+        "contentUrl": "TODO"
+      }
+    ]
+  },
+  {
+    "@type": "Event",
+    "name": "GDG DevFest Urbino 2019",
+    "startDate": "2019-11",
+    "endDate": "2019-11",
+    "location": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Urbino",
+        "addressCountry": "Italy"
+      }
+    },
+    "url": "TODO",
+    "organizer": {
+      "@type": "Organization",
+      "name": "TODO",
+      "url": "TODO"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "workPerformed": [
+      {
+        "@type": "PresentationDigitalDocument",
+        "name": "Firebase functions: il lato oscuro ed il lato chiaro della Forza",
+        "description": "TODO",
+        "contentUrl": "TODO"
+      },
+      {
+        "@type": "PresentationDigitalDocument",
+        "name": "Superheroes & Superpowers (per sviluppatori Angular)!",
+        "description": "TODO",
+        "contentUrl": "TODO"
+      }
+    ]
+  },
+  {
+    "@type": "Event",
+    "name": "DevFest Veneto 2019",
+    "startDate": "2019-11",
+    "endDate": "2019-11",
+    "location": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Venice",
+        "addressCountry": "Italy"
+      }
+    },
+    "url": "TODO",
+    "organizer": {
+      "@type": "Organization",
+      "name": "TODO",
+      "url": "TODO"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "workPerformed": [
+      {
+        "@type": "PresentationDigitalDocument",
+        "name": "Firebase Functions - Il lato chiaro della Forza",
+        "description": "TODO",
+        "contentUrl": "TODO"
+      },
+      {
+        "@type": "PresentationDigitalDocument",
+        "name": "Manage Teams, a space adventure!",
+        "description": "TODO",
+        "contentUrl": "TODO"
+      }
+    ]
+  },
+  {
+    "@type": "Event",
+    "name": "GDG DevFest Pescara 2019",
+    "startDate": "2019-11",
+    "endDate": "2019-11",
+    "location": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Pescara",
+        "addressCountry": "Italy"
+      }
+    },
+    "url": "TODO",
+    "organizer": {
+      "@type": "Organization",
+      "name": "TODO",
+      "url": "TODO"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "workPerformed": [
+      {
+        "@type": "PresentationDigitalDocument",
+        "name": "Firebase Functions - Il lato chiaro della Forza",
+        "description": "TODO",
+        "contentUrl": "TODO"
+      },
+      {
+        "@type": "PresentationDigitalDocument",
+        "name": "Firebase Functions - Il lato oscuro della Forza",
+        "description": "TODO",
+        "contentUrl": "TODO"
+      },
+      {
+        "@type": "PresentationDigitalDocument",
+        "name": "Una lista di cose che potremmo NON sapere sulle community",
+        "description": "TODO",
+        "contentUrl": "TODO"
+      },
+      {
+        "@type": "PresentationDigitalDocument",
+        "name": "Manage Teams, a space adventure!",
+        "description": "TODO",
+        "contentUrl": "TODO"
+      }
+    ]
+  },
+  {
+    "@type": "Event",
+    "name": "DevFest MED",
+    "startDate": "2019-10",
+    "endDate": "2019-10",
+    "location": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Sant'Agata di Militello",
+        "addressCountry": "Italy"
+      }
+    },
+    "url": "TODO",
+    "organizer": {
+      "@type": "Organization",
+      "name": "TODO",
+      "url": "TODO"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "workPerformed": [
+      {
+        "@type": "PresentationDigitalDocument",
+        "name": "Firebase Functions - Il lato chiaro della Forza",
+        "description": "TODO",
+        "contentUrl": "TODO"
+      }
+    ]
+  },
+  {
+    "@type": "Event",
+    "name": "FullStackConf",
+    "startDate": "2019-10",
+    "endDate": "2019-10",
+    "location": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Turin",
+        "addressCountry": "Italy"
+      }
+    },
+    "url": "TODO",
+    "organizer": {
+      "@type": "Organization",
+      "name": "TODO",
+      "url": "TODO"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "workPerformed": [
+      {
+        "@type": "PresentationDigitalDocument",
+        "name": "Firebase: a serverless story",
+        "description": "TODO",
+        "contentUrl": "TODO"
+      }
+    ]
+  },
+  {
+    "@type": "Event",
+    "name": "GDG Milano",
+    "startDate": "2019-09",
+    "endDate": "2019-09",
+    "location": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Milan",
+        "addressCountry": "Italy"
+      }
+    },
+    "url": "TODO",
+    "organizer": {
+      "@type": "Organization",
+      "name": "TODO",
+      "url": "TODO"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "workPerformed": [
+      {
+        "@type": "PresentationDigitalDocument",
+        "name": "Angular Components Like a Jedi!",
+        "description": "TODO",
+        "contentUrl": "TODO"
+      }
+    ]
+  },
+  {
+    "@type": "Event",
+    "name": "DevFest Levante",
+    "startDate": "2019-08",
+    "endDate": "2019-08",
+    "location": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Gallipoli",
+        "addressCountry": "Italy"
+      }
+    },
+    "url": "TODO",
+    "organizer": {
+      "@type": "Organization",
+      "name": "TODO",
+      "url": "TODO"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "workPerformed": [
+      {
+        "@type": "PresentationDigitalDocument",
+        "name": "Angular Components Like a Jedi!",
+        "description": "TODO",
+        "contentUrl": "TODO"
+      }
+    ]
+  },
+  {
+    "@type": "Event",
+    "name": "Campus Party CPIT3",
+    "startDate": "2019-07",
+    "endDate": "2019-07",
+    "location": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Milan",
+        "addressCountry": "Italy"
+      }
+    },
+    "url": "TODO",
+    "organizer": {
+      "@type": "Organization",
+      "name": "TODO",
+      "url": "TODO"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "workPerformed": [
+      {
+        "@type": "PresentationDigitalDocument",
+        "name": "Tech Team like a Jedi",
+        "description": "TODO",
+        "contentUrl": "TODO"
+      }
+    ]
+  },
+  {
+    "@type": "Event",
+    "name": "Angular Rome",
+    "startDate": "2019-06",
+    "endDate": "2019-06",
+    "location": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Rome",
+        "addressCountry": "Italy"
+      }
+    },
+    "url": "TODO",
+    "organizer": {
+      "@type": "Organization",
+      "name": "TODO",
+      "url": "TODO"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "workPerformed": [
+      {
+        "@type": "PresentationDigitalDocument",
+        "name": "Angular Components like a Jedi",
+        "description": "TODO",
+        "contentUrl": "TODO"
+      }
+    ]
+  },
+  {
+    "@type": "Event",
+    "name": "GDG Torino",
+    "startDate": "2019-05",
+    "endDate": "2019-05",
+    "location": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Turin",
+        "addressCountry": "Italy"
+      }
+    },
+    "url": "TODO",
+    "organizer": {
+      "@type": "Organization",
+      "name": "TODO",
+      "url": "TODO"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "workPerformed": [
+      {
+        "@type": "PresentationDigitalDocument",
+        "name": "L’importanza della community per un dev",
+        "description": "TODO",
+        "contentUrl": "TODO"
+      }
+    ]
+  },
+  {
+    "@type": "Event",
+    "name": "DevFest Pisa 2019",
+    "startDate": "2019-04",
+    "endDate": "2019-04",
+    "location": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Pisa",
+        "addressCountry": "Italy"
+      }
+    },
+    "url": "TODO",
+    "organizer": {
+      "@type": "Organization",
+      "name": "TODO",
+      "url": "TODO"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "workPerformed": [
+      {
+        "@type": "PresentationDigitalDocument",
+        "name": "Ecco perché gli sviluppatori sono dei supereroi",
+        "description": "TODO",
+        "contentUrl": "TODO"
+      },
+      {
+        "@type": "PresentationDigitalDocument",
+        "name": "Evolution of Javascript",
+        "description": "TODO",
+        "contentUrl": "TODO"
+      }
+    ]
+  },
+  {
+    "@type": "Event",
+    "name": "DevFest Emilia Romagna 2018",
+    "startDate": "2018-12",
+    "endDate": "2018-12",
+    "location": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Reggio nell'Emilia",
+        "addressCountry": "Italy"
+      }
+    },
+    "url": "TODO",
+    "organizer": {
+      "@type": "Organization",
+      "name": "TODO",
+      "url": "TODO"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "workPerformed": [
+      {
+        "@type": "PresentationDigitalDocument",
+        "name": "La Morte Nera, e se fosse prototipizzata con Firebase e React?",
+        "description": "TODO",
+        "contentUrl": "TODO"
+      }
+    ]
+  },
+  {
+    "@type": "Event",
+    "name": "DevFest Veneto 2018",
+    "startDate": "2018-11",
+    "endDate": "2018-11",
+    "location": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Venice",
+        "addressCountry": "Italy"
+      }
+    },
+    "url": "TODO",
+    "organizer": {
+      "@type": "Organization",
+      "name": "TODO",
+      "url": "TODO"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "workPerformed": [
+      {
+        "@type": "PresentationDigitalDocument",
+        "name": "La Morte Nera, e se fosse prototipizzata con Firebase e React?",
+        "description": "TODO",
+        "contentUrl": "TODO"
+      }
+    ]
+  },
+  {
+    "@type": "Event",
+    "name": "Startup Weekend Catania 2018",
+    "startDate": "2018-11",
+    "endDate": "2018-11",
+    "location": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Catania",
+        "addressCountry": "Italy"
+      }
+    },
+    "url": "TODO",
+    "organizer": {
+      "@type": "Organization",
+      "name": "TODO",
+      "url": "TODO"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "workPerformed": [
+      {
+        "@type": "PresentationDigitalDocument",
+        "name": "Mentor",
+        "description": "TODO",
+        "contentUrl": "TODO"
+      }
+    ]
+  },
+  {
+    "@type": "Event",
+    "name": "DevFest Trento 2018",
+    "startDate": "2018-11",
+    "endDate": "2018-11",
+    "location": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Trento",
+        "addressCountry": "Italy"
+      }
+    },
+    "url": "TODO",
+    "organizer": {
+      "@type": "Organization",
+      "name": "TODO",
+      "url": "TODO"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "workPerformed": [
+      {
+        "@type": "PresentationDigitalDocument",
+        "name": "La rotta di Kessel: come farla in meno di 12 Parsec con Firebase e React",
+        "description": "TODO",
+        "contentUrl": "TODO"
+      }
+    ]
+  },
+  {
+    "@type": "Event",
+    "name": "Firebase Night Torino",
+    "startDate": "2018-10",
+    "endDate": "2018-10",
+    "location": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Turin",
+        "addressCountry": "Italy"
+      }
+    },
+    "url": "TODO",
+    "organizer": {
+      "@type": "Organization",
+      "name": "TODO",
+      "url": "TODO"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "workPerformed": [
+      {
+        "@type": "PresentationDigitalDocument",
+        "name": "La Rotta di Kessel' come farla in meno di 12 Parsec con Firebase!",
+        "description": "TODO",
+        "contentUrl": "TODO"
+      }
+    ]
+  },
+  {
+    "@type": "Event",
+    "name": "Frontender Verona",
+    "startDate": "2018-10",
+    "endDate": "2018-10",
+    "location": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Verona",
+        "addressCountry": "Italy"
+      }
+    },
+    "url": "TODO",
+    "organizer": {
+      "@type": "Organization",
+      "name": "TODO",
+      "url": "TODO"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "workPerformed": [
+      {
+        "@type": "PresentationDigitalDocument",
+        "name": "Build Modern (And Fast) Progressive WebApps",
+        "description": "TODO",
+        "contentUrl": "TODO"
+      }
+    ]
+  },
+  {
+    "@type": "Event",
+    "name": "SMAU Milan 2018",
+    "startDate": "2018-10",
+    "endDate": "2018-10",
+    "location": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Milan",
+        "addressCountry": "Italy"
+      }
+    },
+    "url": "TODO",
+    "organizer": {
+      "@type": "Organization",
+      "name": "TODO",
+      "url": "TODO"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "workPerformed": [
+      {
+        "@type": "PresentationDigitalDocument",
+        "name": "Sviluppo Web & Mobile nel 2018",
+        "description": "TODO",
+        "contentUrl": "TODO"
+      }
+    ]
+  },
+  {
+    "@type": "Event",
+    "name": "DevFest Milano 2018",
+    "startDate": "2018-10",
+    "endDate": "2018-10",
+    "location": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Milan",
+        "addressCountry": "Italy"
+      }
+    },
+    "url": "TODO",
+    "organizer": {
+      "@type": "Organization",
+      "name": "TODO",
+      "url": "TODO"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "workPerformed": [
+      {
+        "@type": "PresentationDigitalDocument",
+        "name": "La Morte Nera, e se fosse prototipizzata con Firebase e React?",
+        "description": "TODO",
+        "contentUrl": "TODO"
+      }
+    ]
+  },
+  {
+    "@type": "Event",
+    "name": "DevFest Levante",
+    "startDate": "2018-08",
+    "endDate": "2018-08",
+    "location": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Torre dell'Orso",
+        "addressCountry": "Italy"
+      }
+    },
+    "url": "TODO",
+    "organizer": {
+      "@type": "Organization",
+      "name": "TODO",
+      "url": "TODO"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "workPerformed": [
+      {
+        "@type": "PresentationDigitalDocument",
+        "name": "Firebase from zero to hero!",
+        "description": "TODO",
+        "contentUrl": "TODO"
+      }
+    ]
+  },
+  {
+    "@type": "Event",
+    "name": "Campus Party CPIT2",
+    "startDate": "2018-07",
+    "endDate": "2018-07",
+    "location": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Milan",
+        "addressCountry": "Italy"
+      }
+    },
+    "url": "TODO",
+    "organizer": {
+      "@type": "Organization",
+      "name": "TODO",
+      "url": "TODO"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "workPerformed": [
+      {
+        "@type": "PresentationDigitalDocument",
+        "name": "Developer a Jedi Path",
+        "description": "TODO",
+        "contentUrl": "TODO"
+      }
+    ]
+  },
+  {
+    "@type": "Event",
+    "name": "Angular Day 2018",
+    "startDate": "2018-06",
+    "endDate": "2018-06",
+    "location": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Verona",
+        "addressCountry": "Italy"
+      }
+    },
+    "url": "TODO",
+    "organizer": {
+      "@type": "Organization",
+      "name": "TODO",
+      "url": "TODO"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "workPerformed": [
+      {
+        "@type": "PresentationDigitalDocument",
+        "name": "The Jedi Path to Angular Universal",
+        "description": "TODO",
+        "contentUrl": "TODO"
+      }
+    ]
+  },
+  {
+    "@type": "Event",
+    "name": "TechDay Messina 2018",
+    "startDate": "2018-05",
+    "endDate": "2018-05",
+    "location": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Messina",
+        "addressCountry": "Italy"
+      }
+    },
+    "url": "TODO",
+    "organizer": {
+      "@type": "Organization",
+      "name": "TODO",
+      "url": "TODO"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "workPerformed": [
+      {
+        "@type": "PresentationDigitalDocument",
+        "name": "Build Modern (And Fast) WebApps",
+        "description": "TODO",
+        "contentUrl": "TODO"
+      }
+    ]
+  },
+  {
+    "@type": "Event",
+    "name": "University of Padova",
+    "startDate": "2018-03",
+    "endDate": "2018-03",
+    "location": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Padova",
+        "addressCountry": "Italy"
+      }
+    },
+    "url": "TODO",
+    "organizer": {
+      "@type": "Organization",
+      "name": "TODO",
+      "url": "TODO"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "workPerformed": [
+      {
+        "@type": "PresentationDigitalDocument",
+        "name": "Essere sviluppatori digital oggi!",
+        "description": "TODO",
+        "contentUrl": "TODO"
+      }
+    ]
+  },
+  {
+    "@type": "Event",
+    "name": "DevFest Pisa 0.1",
+    "startDate": "2018-03",
+    "endDate": "2018-03",
+    "location": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Pisa",
+        "addressCountry": "Italy"
+      }
+    },
+    "url": "TODO",
+    "organizer": {
+      "@type": "Organization",
+      "name": "TODO",
+      "url": "TODO"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "workPerformed": [
+      {
+        "@type": "PresentationDigitalDocument",
+        "name": "Run Fast with Modern JavaScript",
+        "description": "TODO",
+        "contentUrl": "TODO"
+      },
+      {
+        "@type": "PresentationDigitalDocument",
+        "name": "Make your WebApp fast, light and modern (Codelab)",
+        "description": "TODO",
+        "contentUrl": "TODO"
+      }
+    ]
+  },
+  {
+    "@type": "Event",
+    "name": "Sindacato Networkers",
+    "startDate": "2018-02",
+    "endDate": "2018-02",
+    "location": {
+      "@type": "VirtualLocation",
+      "url": "TODO"
+    },
+    "url": "TODO",
+    "organizer": {
+      "@type": "Organization",
+      "name": "TODO",
+      "url": "TODO"
+    },
+    "eventAttendanceMode": "OnlineEventAttendanceMode",
+    "workPerformed": [
+      {
+        "@type": "PresentationDigitalDocument",
+        "name": "Interview",
+        "description": "TODO",
+        "contentUrl": "TODO"
+      }
+    ]
+  },
+  {
+    "@type": "Event",
+    "name": "GDG Milano",
+    "startDate": "2018-01",
+    "endDate": "2018-01",
+    "location": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Milan",
+        "addressCountry": "Italy"
+      }
+    },
+    "url": "TODO",
+    "organizer": {
+      "@type": "Organization",
+      "name": "TODO",
+      "url": "TODO"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "workPerformed": [
+      {
+        "@type": "PresentationDigitalDocument",
+        "name": "Superheroes apps con Angular e Firebase",
+        "description": "TODO",
+        "contentUrl": "TODO"
+      }
+    ]
+  },
+  {
+    "@type": "Event",
+    "name": "Angular Rome",
+    "startDate": "2018-01",
+    "endDate": "2018-01",
+    "location": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Rome",
+        "addressCountry": "Italy"
+      }
+    },
+    "url": "TODO",
+    "organizer": {
+      "@type": "Organization",
+      "name": "TODO",
+      "url": "TODO"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "workPerformed": [
+      {
+        "@type": "PresentationDigitalDocument",
+        "name": "Firebase per Applicazioni complesse in Angular",
+        "description": "TODO",
+        "contentUrl": "TODO"
+      }
+    ]
+  },
+  {
+    "@type": "Event",
+    "name": "GDG Torino",
+    "startDate": "2017-12",
+    "endDate": "2017-12",
+    "location": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Turin",
+        "addressCountry": "Italy"
+      }
+    },
+    "url": "TODO",
+    "organizer": {
+      "@type": "Organization",
+      "name": "TODO",
+      "url": "TODO"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "workPerformed": [
+      {
+        "@type": "PresentationDigitalDocument",
+        "name": "JavaScript: from Zero to Jedi",
+        "description": "TODO",
+        "contentUrl": "TODO"
+      }
+    ]
+  },
+  {
+    "@type": "Event",
+    "name": "GDG Pisa",
+    "startDate": "2017-12",
+    "endDate": "2017-12",
+    "location": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Pisa",
+        "addressCountry": "Italy"
+      }
+    },
+    "url": "TODO",
+    "organizer": {
+      "@type": "Organization",
+      "name": "TODO",
+      "url": "TODO"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "workPerformed": [
+      {
+        "@type": "PresentationDigitalDocument",
+        "name": "JavaScript from Zero to Jedi",
+        "description": "TODO",
+        "contentUrl": "TODO"
+      }
+    ]
+  },
+  {
+    "@type": "Event",
+    "name": "DevFest Veneto 2017",
+    "startDate": "2017-12",
+    "endDate": "2017-12",
+    "location": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Venice",
+        "addressCountry": "Italy"
+      }
+    },
+    "url": "TODO",
+    "organizer": {
+      "@type": "Organization",
+      "name": "TODO",
+      "url": "TODO"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "workPerformed": [
+      {
+        "@type": "PresentationDigitalDocument",
+        "name": "Become an JavaScript superhero Dev!",
+        "description": "TODO",
+        "contentUrl": "TODO"
+      }
+    ]
+  },
+  {
+    "@type": "Event",
+    "name": "DevFest Med 2017 (Part 2)",
+    "startDate": "2017-11",
+    "endDate": "2017-11",
+    "location": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Catania",
+        "addressCountry": "Italy"
+      }
+    },
+    "url": "TODO",
+    "organizer": {
+      "@type": "Organization",
+      "name": "TODO",
+      "url": "TODO"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "workPerformed": [
+      {
+        "@type": "PresentationDigitalDocument",
+        "name": "Become an JavaScript superhero Dev!",
+        "description": "TODO",
+        "contentUrl": "TODO"
+      }
+    ]
+  },
+  {
+    "@type": "Event",
+    "name": "Startup Weekend Catania",
+    "startDate": "2017-10",
+    "endDate": "2017-10",
+    "location": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Catania",
+        "addressCountry": "Italy"
+      }
+    },
+    "url": "TODO",
+    "organizer": {
+      "@type": "Organization",
+      "name": "TODO",
+      "url": "TODO"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "workPerformed": [
+      {
+        "@type": "PresentationDigitalDocument",
+        "name": "Mentor",
+        "description": "TODO",
+        "contentUrl": "TODO"
+      }
+    ]
+  },
+  {
+    "@type": "Event",
+    "name": "DevFest Med 2017 (Part 1)",
+    "startDate": "2017-10",
+    "endDate": "2017-10",
+    "location": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Sant'Agata di Militello",
+        "addressCountry": "Italy"
+      }
+    },
+    "url": "TODO",
+    "organizer": {
+      "@type": "Organization",
+      "name": "TODO",
+      "url": "TODO"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "workPerformed": [
+      {
+        "@type": "PresentationDigitalDocument",
+        "name": "Build with Bricks a gentle introduction to web component",
+        "description": "TODO",
+        "contentUrl": "TODO"
+      }
+    ]
+  },
+  {
+    "@type": "Event",
+    "name": "DevFest Bari 2017",
+    "startDate": "2017-10",
+    "endDate": "2017-10",
+    "location": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Bari",
+        "addressCountry": "Italy"
+      }
+    },
+    "url": "TODO",
+    "organizer": {
+      "@type": "Organization",
+      "name": "TODO",
+      "url": "TODO"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "workPerformed": [
+      {
+        "@type": "PresentationDigitalDocument",
+        "name": "Become an JavaScript superhero Dev!",
+        "description": "TODO",
+        "contentUrl": "TODO"
+      }
+    ]
+  },
+  {
+    "@type": "Event",
+    "name": "Angular Day 2017",
+    "startDate": "2017-06",
+    "endDate": "2017-06",
+    "location": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Verona",
+        "addressCountry": "Italy"
+      }
+    },
+    "url": "TODO",
+    "organizer": {
+      "@type": "Organization",
+      "name": "TODO",
+      "url": "TODO"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "workPerformed": [
+      {
+        "@type": "PresentationDigitalDocument",
+        "name": "Superheroes apps con Angular e Firebase",
+        "description": "TODO",
+        "contentUrl": "TODO"
+      }
+    ]
+  },
+  {
+    "@type": "Event",
+    "name": "GDG Milano",
+    "startDate": "2017-04",
+    "endDate": "2017-04",
+    "location": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Milan",
+        "addressCountry": "Italy"
+      }
+    },
+    "url": "TODO",
+    "organizer": {
+      "@type": "Organization",
+      "name": "TODO",
+      "url": "TODO"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "workPerformed": [
+      {
+        "@type": "PresentationDigitalDocument",
+        "name": "Apps Script Superheroes 1.0",
+        "description": "TODO",
+        "contentUrl": "TODO"
+      }
+    ]
+  },
+  {
+    "@type": "Event",
+    "name": "Codemotion Milan",
+    "startDate": "2015-11",
+    "endDate": "2015-11",
+    "location": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Milan",
+        "addressCountry": "Italy"
+      }
+    },
+    "url": "TODO",
+    "organizer": {
+      "@type": "Organization",
+      "name": "TODO",
+      "url": "TODO"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "workPerformed": [
+      {
+        "@type": "PresentationDigitalDocument",
+        "name": "Costruire applicazioni Real Time con Polymer e Firebase",
+        "description": "TODO",
+        "contentUrl": "TODO"
+      }
+    ]
+  },
+  {
+    "@type": "Event",
+    "name": "DevFest Catania",
+    "startDate": "2015-10",
+    "endDate": "2015-10",
+    "location": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Catania",
+        "addressCountry": "Italy"
+      }
+    },
+    "url": "TODO",
+    "organizer": {
+      "@type": "Organization",
+      "name": "TODO",
+      "url": "TODO"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "workPerformed": [
+      {
+        "@type": "PresentationDigitalDocument",
+        "name": "Costruire applicazioni Real Time con Polymer e Firebase",
+        "description": "TODO",
+        "contentUrl": "TODO"
+      }
+    ]
+  },
+  {
+    "@type": "Event",
+    "name": "GDG Bari",
+    "startDate": "2015-05",
+    "endDate": "2015-05",
+    "location": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Bari",
+        "addressCountry": "Italy"
+      }
+    },
+    "url": "TODO",
+    "organizer": {
+      "@type": "Organization",
+      "name": "TODO",
+      "url": "TODO"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "workPerformed": [
+      {
+        "@type": "PresentationDigitalDocument",
+        "name": "Codelab AndroidTV",
+        "description": "TODO",
+        "contentUrl": "TODO"
+      }
+    ]
+  },
+  {
+    "@type": "Event",
+    "name": "DevFest Mediterranean",
+    "startDate": "2014-10",
+    "endDate": "2014-10",
+    "location": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Sant'Agata di Militello",
+        "addressCountry": "Italy"
+      }
+    },
+    "url": "TODO",
+    "organizer": {
+      "@type": "Organization",
+      "name": "TODO",
+      "url": "TODO"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "workPerformed": [
+      {
+        "@type": "PresentationDigitalDocument",
+        "name": "Build WebApp with Polymer",
+        "description": "TODO",
+        "contentUrl": "TODO"
+      }
+    ]
+  },
+  {
+    "@type": "Event",
+    "name": "GDG Nebrodi & Università Messina",
+    "startDate": "2014-09",
+    "endDate": "2014-09",
+    "location": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Messina",
+        "addressCountry": "Italy"
+      }
+    },
+    "url": "TODO",
+    "organizer": {
+      "@type": "Organization",
+      "name": "TODO",
+      "url": "TODO"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "workPerformed": [
+      {
+        "@type": "PresentationDigitalDocument",
+        "name": "Intro to AngularJS & Codelab",
+        "description": "TODO",
+        "contentUrl": "TODO"
+      }
+    ]
+  },
+  {
+    "@type": "Event",
+    "name": "Android App Festival",
+    "startDate": "2014-05",
+    "endDate": "2014-05",
+    "location": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Santo Stefano di Camastra",
+        "addressCountry": "Italy"
+      }
+    },
+    "url": "TODO",
+    "organizer": {
+      "@type": "Organization",
+      "name": "TODO",
+      "url": "TODO"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "workPerformed": [
+      {
+        "@type": "PresentationDigitalDocument",
+        "name": "Costruire Android App tramite AngularJs",
+        "description": "TODO",
+        "contentUrl": "TODO"
+      }
+    ]
+  }
+]

@@ -1,0 +1,29 @@
+{
+  "@type": "Event",
+  "name": "DevFest Emilia Romagna 2018",
+  "startDate": "2018-12",
+  "endDate": "2018-12",
+  "location": {
+    "@type": "Place",
+    "address": {
+      "@type": "PostalAddress",
+      "addressLocality": "Reggio nell'Emilia",
+      "addressCountry": "Italy"
+    }
+  },
+  "url": "TODO",
+  "organizer": {
+    "@type": "Organization",
+    "name": "TODO",
+    "url": "TODO"
+  },
+  "eventAttendanceMode": "OfflineEventAttendanceMode",
+  "workPerformed": [
+    {
+      "@type": "PresentationDigitalDocument",
+      "name": "La Morte Nera, e se fosse prototipizzata con Firebase e React?",
+      "description": "TODO",
+      "contentUrl": "TODO"
+    }
+  ]
+}

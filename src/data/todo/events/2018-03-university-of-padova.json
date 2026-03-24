@@ -1,0 +1,29 @@
+{
+  "@type": "Event",
+  "name": "University of Padova",
+  "startDate": "2018-03",
+  "endDate": "2018-03",
+  "location": {
+    "@type": "Place",
+    "address": {
+      "@type": "PostalAddress",
+      "addressLocality": "Padova",
+      "addressCountry": "Italy"
+    }
+  },
+  "url": "TODO",
+  "organizer": {
+    "@type": "Organization",
+    "name": "TODO",
+    "url": "TODO"
+  },
+  "eventAttendanceMode": "OfflineEventAttendanceMode",
+  "workPerformed": [
+    {
+      "@type": "PresentationDigitalDocument",
+      "name": "Essere sviluppatori digital oggi!",
+      "description": "TODO",
+      "contentUrl": "TODO"
+    }
+  ]
+}

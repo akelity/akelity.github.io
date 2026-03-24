@@ -1,0 +1,25 @@
+{
+  "@type": "Event",
+  "name": "API Date",
+  "startDate": "2021-11",
+  "endDate": "2021-11",
+  "location": {
+    "@type": "VirtualLocation",
+    "url": "TODO"
+  },
+  "url": "TODO",
+  "organizer": {
+    "@type": "Organization",
+    "name": "TODO",
+    "url": "TODO"
+  },
+  "eventAttendanceMode": "OnlineEventAttendanceMode",
+  "workPerformed": [
+    {
+      "@type": "PresentationDigitalDocument",
+      "name": "Digital Integration Hub (DIH) come strategia vincente per i problemi di oggi e di domani",
+      "description": "TODO",
+      "contentUrl": "TODO"
+    }
+  ]
+}

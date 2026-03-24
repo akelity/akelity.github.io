@@ -1,0 +1,29 @@
+{
+  "@type": "Event",
+  "name": "DevFest Bari 2017",
+  "startDate": "2017-10",
+  "endDate": "2017-10",
+  "location": {
+    "@type": "Place",
+    "address": {
+      "@type": "PostalAddress",
+      "addressLocality": "Bari",
+      "addressCountry": "Italy"
+    }
+  },
+  "url": "TODO",
+  "organizer": {
+    "@type": "Organization",
+    "name": "TODO",
+    "url": "TODO"
+  },
+  "eventAttendanceMode": "OfflineEventAttendanceMode",
+  "workPerformed": [
+    {
+      "@type": "PresentationDigitalDocument",
+      "name": "Become an JavaScript superhero Dev!",
+      "description": "TODO",
+      "contentUrl": "TODO"
+    }
+  ]
+}

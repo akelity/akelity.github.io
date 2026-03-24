@@ -1,0 +1,29 @@
+{
+  "@type": "Event",
+  "name": "GDG Bari",
+  "startDate": "2015-05",
+  "endDate": "2015-05",
+  "location": {
+    "@type": "Place",
+    "address": {
+      "@type": "PostalAddress",
+      "addressLocality": "Bari",
+      "addressCountry": "Italy"
+    }
+  },
+  "url": "TODO",
+  "organizer": {
+    "@type": "Organization",
+    "name": "TODO",
+    "url": "TODO"
+  },
+  "eventAttendanceMode": "OfflineEventAttendanceMode",
+  "workPerformed": [
+    {
+      "@type": "PresentationDigitalDocument",
+      "name": "Codelab AndroidTV",
+      "description": "TODO",
+      "contentUrl": "TODO"
+    }
+  ]
+}

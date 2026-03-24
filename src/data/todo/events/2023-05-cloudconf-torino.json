@@ -1,0 +1,29 @@
+{
+  "@type": "Event",
+  "name": "CloudConf Torino",
+  "startDate": "2023-05",
+  "endDate": "2023-05",
+  "location": {
+    "@type": "Place",
+    "address": {
+      "@type": "PostalAddress",
+      "addressLocality": "Turin",
+      "addressCountry": "IT"
+    }
+  },
+  "url": "TODO",
+  "organizer": {
+    "@type": "Organization",
+    "name": "TODO",
+    "url": "TODO"
+  },
+  "eventAttendanceMode": "OfflineEventAttendanceMode",
+  "workPerformed": [
+    {
+      "@type": "PresentationDigitalDocument",
+      "name": "Platform Engineering: L'Arte di Creare Ecosistemi Digitali",
+      "description": "TODO",
+      "contentUrl": "TODO"
+    }
+  ]
+}

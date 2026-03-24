@@ -1,0 +1,29 @@
+{
+  "@type": "Event",
+  "name": "GDG Milano",
+  "startDate": "2019-09",
+  "endDate": "2019-09",
+  "location": {
+    "@type": "Place",
+    "address": {
+      "@type": "PostalAddress",
+      "addressLocality": "Milan",
+      "addressCountry": "Italy"
+    }
+  },
+  "url": "TODO",
+  "organizer": {
+    "@type": "Organization",
+    "name": "TODO",
+    "url": "TODO"
+  },
+  "eventAttendanceMode": "OfflineEventAttendanceMode",
+  "workPerformed": [
+    {
+      "@type": "PresentationDigitalDocument",
+      "name": "Angular Components Like a Jedi!",
+      "description": "TODO",
+      "contentUrl": "TODO"
+    }
+  ]
+}

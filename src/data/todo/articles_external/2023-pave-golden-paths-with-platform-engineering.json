@@ -1,0 +1,16 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "Pave Golden Paths with Platform Engineering",
+  "datePublished": "2023",
+  "description": "🇬🇧 Pave Golden Paths with Platform Engineering",
+  "author": {
+    "@type": "Person",
+    "name": "Tuo Nome"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Mia-Platform Blog",
+    "url": "https://blog.mia-platform.eu/en/golden-paths-platform-engineering"
+  }
+}

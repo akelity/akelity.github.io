@@ -1,0 +1,29 @@
+{
+  "@type": "Event",
+  "name": "Firebase Night Torino",
+  "startDate": "2018-10",
+  "endDate": "2018-10",
+  "location": {
+    "@type": "Place",
+    "address": {
+      "@type": "PostalAddress",
+      "addressLocality": "Turin",
+      "addressCountry": "Italy"
+    }
+  },
+  "url": "TODO",
+  "organizer": {
+    "@type": "Organization",
+    "name": "TODO",
+    "url": "TODO"
+  },
+  "eventAttendanceMode": "OfflineEventAttendanceMode",
+  "workPerformed": [
+    {
+      "@type": "PresentationDigitalDocument",
+      "name": "La Rotta di Kessel' come farla in meno di 12 Parsec con Firebase!",
+      "description": "TODO",
+      "contentUrl": "TODO"
+    }
+  ]
+}

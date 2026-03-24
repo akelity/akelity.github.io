@@ -1,0 +1,35 @@
+{
+  "@type": "Event",
+  "name": "DevFest Pisa 0.1",
+  "startDate": "2018-03",
+  "endDate": "2018-03",
+  "location": {
+    "@type": "Place",
+    "address": {
+      "@type": "PostalAddress",
+      "addressLocality": "Pisa",
+      "addressCountry": "Italy"
+    }
+  },
+  "url": "TODO",
+  "organizer": {
+    "@type": "Organization",
+    "name": "TODO",
+    "url": "TODO"
+  },
+  "eventAttendanceMode": "OfflineEventAttendanceMode",
+  "workPerformed": [
+    {
+      "@type": "PresentationDigitalDocument",
+      "name": "Run Fast with Modern JavaScript",
+      "description": "TODO",
+      "contentUrl": "TODO"
+    },
+    {
+      "@type": "PresentationDigitalDocument",
+      "name": "Make your WebApp fast, light and modern (Codelab)",
+      "description": "TODO",
+      "contentUrl": "TODO"
+    }
+  ]
+}

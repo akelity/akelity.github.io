@@ -1,0 +1,29 @@
+{
+  "@type": "Event",
+  "name": "DevFest XMAS",
+  "startDate": "2021-12",
+  "endDate": "2021-12",
+  "location": {
+    "@type": "Place",
+    "address": {
+      "@type": "PostalAddress",
+      "addressLocality": "Turin",
+      "addressCountry": "Italy"
+    }
+  },
+  "url": "TODO",
+  "organizer": {
+    "@type": "Organization",
+    "name": "TODO",
+    "url": "TODO"
+  },
+  "eventAttendanceMode": "OfflineEventAttendanceMode",
+  "workPerformed": [
+    {
+      "@type": "PresentationDigitalDocument",
+      "name": "Orchestrare Micro-frontend con micro-lc",
+      "description": "TODO",
+      "contentUrl": "TODO"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "@type": "Event",
+  "name": "SMAU Milan 2018",
+  "startDate": "2018-10",
+  "endDate": "2018-10",
+  "location": {
+    "@type": "Place",
+    "address": {
+      "@type": "PostalAddress",
+      "addressLocality": "Milan",
+      "addressCountry": "Italy"
+    }
+  },
+  "url": "TODO",
+  "organizer": {
+    "@type": "Organization",
+    "name": "TODO",
+    "url": "TODO"
+  },
+  "eventAttendanceMode": "OfflineEventAttendanceMode",
+  "workPerformed": [
+    {
+      "@type": "PresentationDigitalDocument",
+      "name": "Sviluppo Web & Mobile nel 2018",
+      "description": "TODO",
+      "contentUrl": "TODO"
+    }
+  ]
+}

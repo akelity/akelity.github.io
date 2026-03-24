@@ -1,0 +1,29 @@
+{
+  "@type": "Event",
+  "name": "Campus Party CPIT2",
+  "startDate": "2018-07",
+  "endDate": "2018-07",
+  "location": {
+    "@type": "Place",
+    "address": {
+      "@type": "PostalAddress",
+      "addressLocality": "Milan",
+      "addressCountry": "Italy"
+    }
+  },
+  "url": "TODO",
+  "organizer": {
+    "@type": "Organization",
+    "name": "TODO",
+    "url": "TODO"
+  },
+  "eventAttendanceMode": "OfflineEventAttendanceMode",
+  "workPerformed": [
+    {
+      "@type": "PresentationDigitalDocument",
+      "name": "Developer a Jedi Path",
+      "description": "TODO",
+      "contentUrl": "TODO"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "@type": "Event",
+  "name": "TECH JOBS FAIR",
+  "startDate": "2024-02-09T09:00:00Z",
+  "endDate": "2024-02-10T19:00:00Z",
+  "image": "https://michelmurabito.com/conferences/2024/Michel_Murabito-TECH-JOBS-FAIR-2024.webp",
+  "location": {
+    "@type": "VirtualLocation",
+    "url": "https://techjobsfair.it/tech-jobs-fair-remote-working-edition-9-10-february-2024/"
+  },
+  "url": "https://techjobsfair.it/tech-jobs-fair-remote-working-edition-9-10-february-2024/",
+  "organizer": {
+    "@type": "Organization",
+    "name": "TECH JOBS fair",
+    "url": "https://techjobsfair.it/"
+  },
+  "eventAttendanceMode": "OnlineEventAttendanceMode",
+  "workPerformed": [
+    {
+      "@type": "PresentationDigitalDocument",
+      "name": "Un Viaggio nell'Universo della Developer Experience",
+      "description": "In the realm of software development, Developer Experience (DX) is crucial yet often underestimated. DX measures the comfort, productivity, and satisfaction programmers feel when working with tools, libraries, and frameworks. A positive DX leads to increased productivity, improved code quality, and higher talent retention. Join Michel Murabito in his session 'A Journey into the Universe of Developer Experience' to explore how enhancing DX can transform the development process, making it more efficient and enjoyable",
+      "contentUrl": "https://techjobsfair.it/news/sullimportanza-della-developer-experience-ottimizzare-il-flusso-di-lavoro-dei-programmatori/"
+    }
+  ]
+}

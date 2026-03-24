@@ -1,0 +1,16 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "A Developer Advocate's Journal: my adventure at KubeCon Europe 2023",
+  "datePublished": "2023",
+  "description": "🇬🇧 A Developer Advocate's Journal: my adventure at KubeCon Europe 2023",
+  "author": {
+    "@type": "Person",
+    "name": "Tuo Nome"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Mia-Platform Blog",
+    "url": "https://blog.mia-platform.eu/en/developer-advocate-journal-kubecon-europe-2023"
+  }
+}

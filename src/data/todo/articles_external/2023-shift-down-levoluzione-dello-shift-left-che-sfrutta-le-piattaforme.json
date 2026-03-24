@@ -1,0 +1,16 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "Shift Down: l'evoluzione dello Shift Left che sfrutta le piattaforme",
+  "datePublished": "2023",
+  "description": "🇮🇹 Shift Down: l'evoluzione dello Shift Left che sfrutta le piattaforme",
+  "author": {
+    "@type": "Person",
+    "name": "Tuo Nome"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Mia-Platform Blog",
+    "url": "https://blog.mia-platform.eu/it/shift-down-evoluzione-shift-left"
+  }
+}

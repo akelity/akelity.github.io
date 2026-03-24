@@ -1,0 +1,29 @@
+{
+  "@type": "Event",
+  "name": "DevFest Med 2017 (Part 1)",
+  "startDate": "2017-10",
+  "endDate": "2017-10",
+  "location": {
+    "@type": "Place",
+    "address": {
+      "@type": "PostalAddress",
+      "addressLocality": "Sant'Agata di Militello",
+      "addressCountry": "Italy"
+    }
+  },
+  "url": "TODO",
+  "organizer": {
+    "@type": "Organization",
+    "name": "TODO",
+    "url": "TODO"
+  },
+  "eventAttendanceMode": "OfflineEventAttendanceMode",
+  "workPerformed": [
+    {
+      "@type": "PresentationDigitalDocument",
+      "name": "Build with Bricks a gentle introduction to web component",
+      "description": "TODO",
+      "contentUrl": "TODO"
+    }
+  ]
+}

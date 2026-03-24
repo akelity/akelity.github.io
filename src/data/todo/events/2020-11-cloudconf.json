@@ -1,0 +1,25 @@
+{
+  "@type": "Event",
+  "name": "CloudConf",
+  "startDate": "2020-11",
+  "endDate": "2020-11",
+  "location": {
+    "@type": "VirtualLocation",
+    "url": "TODO"
+  },
+  "url": "TODO",
+  "organizer": {
+    "@type": "Organization",
+    "name": "TODO",
+    "url": "TODO"
+  },
+  "eventAttendanceMode": "OnlineEventAttendanceMode",
+  "workPerformed": [
+    {
+      "@type": "PresentationDigitalDocument",
+      "name": "Firebase: a serverless story",
+      "description": "TODO",
+      "contentUrl": "TODO"
+    }
+  ]
+}

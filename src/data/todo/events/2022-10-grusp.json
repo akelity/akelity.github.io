@@ -1,0 +1,25 @@
+{
+  "@type": "Event",
+  "name": "GrUSP",
+  "startDate": "2022-10",
+  "endDate": "2022-10",
+  "location": {
+    "@type": "VirtualLocation",
+    "url": "TODO"
+  },
+  "url": "TODO",
+  "organizer": {
+    "@type": "Organization",
+    "name": "TODO",
+    "url": "TODO"
+  },
+  "eventAttendanceMode": "OnlineEventAttendanceMode",
+  "workPerformed": [
+    {
+      "@type": "PresentationDigitalDocument",
+      "name": "micro-lc: come orchestrare Micro-frontend",
+      "description": "TODO",
+      "contentUrl": "TODO"
+    }
+  ]
+}

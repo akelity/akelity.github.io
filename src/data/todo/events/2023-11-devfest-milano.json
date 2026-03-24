@@ -1,0 +1,29 @@
+{
+  "@type": "Event",
+  "name": "DevFest Milano",
+  "startDate": "2023-11",
+  "endDate": "2023-11",
+  "location": {
+    "@type": "Place",
+    "address": {
+      "@type": "PostalAddress",
+      "addressLocality": "Milan",
+      "addressCountry": "IT"
+    }
+  },
+  "url": "TODO",
+  "organizer": {
+    "@type": "Organization",
+    "name": "TODO",
+    "url": "TODO"
+  },
+  "eventAttendanceMode": "OfflineEventAttendanceMode",
+  "workPerformed": [
+    {
+      "@type": "PresentationDigitalDocument",
+      "name": "Guida Galattica per Platform Engineer (e non) - The Galactic Guide for Platform Engineers (and others)",
+      "description": "TODO",
+      "contentUrl": "TODO"
+    }
+  ]
+}

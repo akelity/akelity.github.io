@@ -1,0 +1,29 @@
+{
+  "@type": "Event",
+  "name": "Angular Day 2017",
+  "startDate": "2017-06",
+  "endDate": "2017-06",
+  "location": {
+    "@type": "Place",
+    "address": {
+      "@type": "PostalAddress",
+      "addressLocality": "Verona",
+      "addressCountry": "Italy"
+    }
+  },
+  "url": "TODO",
+  "organizer": {
+    "@type": "Organization",
+    "name": "TODO",
+    "url": "TODO"
+  },
+  "eventAttendanceMode": "OfflineEventAttendanceMode",
+  "workPerformed": [
+    {
+      "@type": "PresentationDigitalDocument",
+      "name": "Superheroes apps con Angular e Firebase",
+      "description": "TODO",
+      "contentUrl": "TODO"
+    }
+  ]
+}

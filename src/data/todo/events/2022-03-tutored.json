@@ -1,0 +1,25 @@
+{
+  "@type": "Event",
+  "name": "Tutored",
+  "startDate": "2022-03",
+  "endDate": "2022-03",
+  "location": {
+    "@type": "VirtualLocation",
+    "url": "TODO"
+  },
+  "url": "TODO",
+  "organizer": {
+    "@type": "Organization",
+    "name": "TODO",
+    "url": "TODO"
+  },
+  "eventAttendanceMode": "OnlineEventAttendanceMode",
+  "workPerformed": [
+    {
+      "@type": "PresentationDigitalDocument",
+      "name": "Il lavoro dei tuoi sogni in ambito STEM? Guida pratica su come trovarlo, ottenerlo e mantenerlo",
+      "description": "TODO",
+      "contentUrl": "TODO"
+    }
+  ]
+}

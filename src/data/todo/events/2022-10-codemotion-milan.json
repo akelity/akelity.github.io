@@ -1,0 +1,29 @@
+{
+  "@type": "Event",
+  "name": "Codemotion Milan 2022",
+  "startDate": "2022-10",
+  "endDate": "2022-10",
+  "location": {
+    "@type": "Place",
+    "address": {
+      "@type": "PostalAddress",
+      "addressLocality": "Milan",
+      "addressCountry": "Italy"
+    }
+  },
+  "url": "TODO",
+  "organizer": {
+    "@type": "Organization",
+    "name": "TODO",
+    "url": "TODO"
+  },
+  "eventAttendanceMode": "OfflineEventAttendanceMode",
+  "workPerformed": [
+    {
+      "@type": "PresentationDigitalDocument",
+      "name": "DEVulgari eloquentia: tra content creation e personal branding",
+      "description": "TODO",
+      "contentUrl": "TODO"
+    }
+  ]
+}

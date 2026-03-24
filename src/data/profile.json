@@ -1,0 +1,30 @@
+{
+  "page_name": {
+    "about": "About"
+  },
+  "short_intro": "I’m Mich a Developer Advocate passionate about technology and knowledge sharing",
+  "med_intro": "Hello! I’m Michel Murabito, a Developer Advocate at Mia-Platform & CNCF Ambassador, currently residing in the vibrant city of Milan",
+  "long_intro": [
+    "Hello! I’m Michel Murabito, a Developer Advocate at Mia-Platform, currently residing in the vibrant city of Milan. Born in 1986 in Turin and raised in the culturally rich landscapes of Sicily, I began my journey in the world of software development at the tender age of 12, driven by an insatiable curiosity and a love for technology.",
+    "My professional journey took off at 18 when I landed my first job as a Software Developer. This milestone was the beginning of an adventurous exploration across various domains and opportunities for growth. Throughout my career, I’ve had the privilege to contribute my skills as both an employee and a freelancer, working on projects for the Sicilian Region, MiBACT, and numerous digital startups, crafting innovative products that push the boundaries of what’s possible.",
+    "Since 2015, I’ve dedicated myself to Developer Relations, initially as part of a Developer Relations team for a multinational. This experience allowed me to dive deep into the ecosystem, engaging with developers and technology enthusiasts alike. Now, as a Developer Advocate at Mia-Platform, my mission is to empower developers by sharing my knowledge and experiences, fostering a community where innovation thrives.",
+    "Beyond my professional endeavors, I’m an avid contributor to the tech community. I’ve spoken at various Italian and international events, sharing insights on topics such as platform engineering, sustainability in technology, and developer experience. My commitment to knowledge sharing extends to my YouTube channel and a community of over 700 members, where I delve into these subjects with passion and enthusiasm.",
+    "My motto, “Never Hesitate”, reflects my approach to life and work. By day, I’m a Developer Advocate but there’s another side to me - by night, I aspire to be a superhero of sorts, leveraging my skills to make a positive impact in the digital world and beyond."
+  ],
+  "resume": [
+    {
+      "company": "Fractal Cloud",
+      "title": "Tech Evangelist",
+      "logo": "fractal-cloud",
+      "start": "2025",
+      "end": "current"
+    },
+    {
+      "company": "CNCF",
+      "title": "Ambassador",
+      "logo": "cncf",
+      "start": "2024",
+      "end": "current"
+    }
+  ]
+}

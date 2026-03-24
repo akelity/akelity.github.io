@@ -1,0 +1,29 @@
+{
+  "@type": "Event",
+  "name": "GDG Milano",
+  "startDate": "2017-04",
+  "endDate": "2017-04",
+  "location": {
+    "@type": "Place",
+    "address": {
+      "@type": "PostalAddress",
+      "addressLocality": "Milan",
+      "addressCountry": "Italy"
+    }
+  },
+  "url": "TODO",
+  "organizer": {
+    "@type": "Organization",
+    "name": "TODO",
+    "url": "TODO"
+  },
+  "eventAttendanceMode": "OfflineEventAttendanceMode",
+  "workPerformed": [
+    {
+      "@type": "PresentationDigitalDocument",
+      "name": "Apps Script Superheroes 1.0",
+      "description": "TODO",
+      "contentUrl": "TODO"
+    }
+  ]
+}

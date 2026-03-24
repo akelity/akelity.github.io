@@ -1,0 +1,119 @@
+import {Card} from '@/components/Card'
+import {Section} from '@/components/Section'
+import {SimpleLayout} from '@/components/SimpleLayout'
+import {Seo} from "@/components/Seo";
+
+function ToolsSection({children, ...props}) {
+    return (
+        <Section {...props}>
+            <ul role="list" className="space-y-16">
+                {children}
+            </ul>
+        </Section>
+    )
+}
+
+function Tool({title, href, children}) {
+    return (
+        <Card as="li">
+            <Card.Title as="h3" href={href}>
+                {title}
+            </Card.Title>
+            <Card.Description>{children}</Card.Description>
+        </Card>
+    )
+}
+
+export default function Uses({data, schema}) {
+    return (
+        <>
+            <Seo data={data} schema={schema}/>
+            <SimpleLayout
+                title="Tools and Gadgets I use: software, devices and more"
+                intro="Explore the software I use, the gadgets I love and other things I regularly rely on for my work and hobbies. Get a glimpse into the tools that help me stay productive and creative."
+            >
+                <div className="space-y-20">
+                    <ToolsSection title="Workstation">
+                        {data.tools.workstation.map((t,i) => {
+                            return <Tool key={`workstation-${i}`} title={t.title}>
+                                {t.description}
+                            </Tool>
+                        })}
+                    </ToolsSection>
+                </div>
+            </SimpleLayout>
+        </>
+    )
+}
+
+export async function getStaticProps() {
+    const data = {
+        "pageTitle": "Tools and Gadgets I Use: Software, Devices, and More",
+        "pageDescription": "Explore the software I use, the gadgets I love, and other things I regularly rely on for my work and hobbies. Get a glimpse into the tools that help me stay productive and creative.",
+        "pageLink": "https://michelmurabito.com/uses",
+        "pageImage": "https://michelmurabito.com/michel_murabito_personal_website.png",
+        tools: {
+            workstation: [
+                {
+                    "title": "Mac Mini, M2 Pro, 16GB RAM (2024)",
+                    "description": "For my hobbies, I've been using a Mac Mini M2 Pro (16GB of RAM) for the past few months. This is the first time in the last 15 years that I've had a fixed workstation for my hobby projects, and I am extremely satisfied. The speed and responsiveness are exactly what I was looking for."
+                },
+                {
+                    "title": "Apple MacBook Air, M1, 8GB RAM (2020)",
+                    "description": "I use the Apple MacBook Air M1 (2020) with 8GB of RAM for on-the-go productivity. Its lightweight design and powerful performance make it an ideal companion for work and travel."
+                },
+                {
+                    "title": "LG 34WP75CP Monitor 34\" QHD UltraWide Curved LED",
+                    "description": "The LG 34WP75CP 34\" QHD UltraWide Curved LED monitor provides a stunning and immersive viewing experience, perfect for multitasking and productivity."
+                },
+                {
+                    "title": "Bose Noise Cancelling Headphones 700",
+                    "description": "The Bose Noise Cancelling Headphones 700 provide exceptional sound quality and noise cancellation, making them perfect for both work and leisure. With a comfortable design and advanced features, these headphones enhance my focus and listening experience."
+                },
+                {
+                    "title": "Elgato Stream Deck+",
+                    "description": "The Elgato Stream Deck+ enhances my productivity and creativity by providing customizable control over my workflow and streaming setup."
+                },
+                {
+                    "title": "Elgato Wave Mic Arm (Low Profile)",
+                    "description": "The Elgato Wave Mic Arm (Low Profile) offers a sleek and flexible solution for positioning my microphone, ensuring optimal audio quality during recordings."
+                },
+                {
+                    "title": "Rode NT-USB Microphone",
+                    "description": "The Rode NT-USB microphone delivers crystal-clear sound quality for my recordings and streaming sessions, making it an essential part of my audio setup."
+                },
+                {
+                    "title": "Elgato Key Light (2x)",
+                    "description": "The Elgato Key Lights provide professional lighting for my workspace, ensuring excellent video quality for my streams and video recordings."
+                },
+                {
+                    "title": "Canon M50 Mark II",
+                    "description": "The Canon m50 mark II is my go-to camera for high-quality video content, offering superb image quality and versatile features."
+                },
+                {
+                    "title": "Elgato Cam Link 4K",
+                    "description": "The Elgato Cam Link 4K allows me to use my Canon m50 mark II as a high-quality webcam, enhancing the visual quality of my video calls and streams."
+                },
+                {
+                    "title": "Ikea Uppspel Standing Desk (1.80m)",
+                    "description": "The Uppspel standing desk (1.80m) provides a flexible and ergonomic workspace, allowing me to switch between sitting and standing positions for better comfort and productivity."
+                },
+                {
+                    "title": "SecretLab TITAN Evo Chair",
+                    "description": "The SecretLab TITAN Evo chair offers exceptional comfort and support during long working sessions, contributing to a more ergonomic workspace."
+                },
+                {
+                    "title": "Ikea Uppspel Pegboard 2x",
+                    "description": "The UPPSPEL pegboards help me keep my workspace organized and clutter-free, providing convenient storage for my tools and accessories."
+                }
+            ]
+        }
+    }
+    const schema = null;
+    return {
+        props: {
+            data,
+            schema
+        }
+    };
+}

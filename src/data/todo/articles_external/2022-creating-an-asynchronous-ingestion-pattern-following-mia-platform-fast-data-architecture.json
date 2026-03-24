@@ -1,0 +1,16 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "Creating an Asynchronous Ingestion Pattern Following Mia-Platform Fast Data Architecture",
+  "datePublished": "2022",
+  "description": "🇬🇧 Creating an Asynchronous Ingestion Pattern Following Mia-Platform Fast Data Architecture (co-author)",
+  "author": {
+    "@type": "Person",
+    "name": "Tuo Nome"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "AWS Partner Network (APN) Blog",
+    "url": "https://aws.amazon.com/it/blogs/apn/creating-an-asynchronous-ingestion-pattern-following-mia-platform-fast-data-architecture/"
+  }
+}

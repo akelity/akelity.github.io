@@ -1,0 +1,29 @@
+{
+  "@type": "Event",
+  "name": "DevFest Mediterranean",
+  "startDate": "2014-10",
+  "endDate": "2014-10",
+  "location": {
+    "@type": "Place",
+    "address": {
+      "@type": "PostalAddress",
+      "addressLocality": "Sant'Agata di Militello",
+      "addressCountry": "Italy"
+    }
+  },
+  "url": "TODO",
+  "organizer": {
+    "@type": "Organization",
+    "name": "TODO",
+    "url": "TODO"
+  },
+  "eventAttendanceMode": "OfflineEventAttendanceMode",
+  "workPerformed": [
+    {
+      "@type": "PresentationDigitalDocument",
+      "name": "Build WebApp with Polymer",
+      "description": "TODO",
+      "contentUrl": "TODO"
+    }
+  ]
+}

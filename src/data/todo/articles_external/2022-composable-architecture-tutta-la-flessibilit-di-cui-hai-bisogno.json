@@ -1,0 +1,16 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "Composable Architecture: tutta la flessibilità di cui hai bisogno",
+  "datePublished": "2022",
+  "description": "🇮🇹 Composable Architecture: tutta la flessibilità di cui hai bisogno",
+  "author": {
+    "@type": "Person",
+    "name": "Tuo Nome"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Mia-Platform Blog",
+    "url": "https://blog.mia-platform.eu/it/composable-architecture-tutta-la-flessibilita-di-cui-hai-bisogno"
+  }
+}

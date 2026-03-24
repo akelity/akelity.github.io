@@ -1,0 +1,35 @@
+{
+  "@type": "Event",
+  "name": "DevFest Pisa 2019",
+  "startDate": "2019-04",
+  "endDate": "2019-04",
+  "location": {
+    "@type": "Place",
+    "address": {
+      "@type": "PostalAddress",
+      "addressLocality": "Pisa",
+      "addressCountry": "Italy"
+    }
+  },
+  "url": "TODO",
+  "organizer": {
+    "@type": "Organization",
+    "name": "TODO",
+    "url": "TODO"
+  },
+  "eventAttendanceMode": "OfflineEventAttendanceMode",
+  "workPerformed": [
+    {
+      "@type": "PresentationDigitalDocument",
+      "name": "Ecco perché gli sviluppatori sono dei supereroi",
+      "description": "TODO",
+      "contentUrl": "TODO"
+    },
+    {
+      "@type": "PresentationDigitalDocument",
+      "name": "Evolution of Javascript",
+      "description": "TODO",
+      "contentUrl": "TODO"
+    }
+  ]
+}

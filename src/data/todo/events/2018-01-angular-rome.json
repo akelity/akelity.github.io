@@ -1,0 +1,29 @@
+{
+  "@type": "Event",
+  "name": "Angular Rome",
+  "startDate": "2018-01",
+  "endDate": "2018-01",
+  "location": {
+    "@type": "Place",
+    "address": {
+      "@type": "PostalAddress",
+      "addressLocality": "Rome",
+      "addressCountry": "Italy"
+    }
+  },
+  "url": "TODO",
+  "organizer": {
+    "@type": "Organization",
+    "name": "TODO",
+    "url": "TODO"
+  },
+  "eventAttendanceMode": "OfflineEventAttendanceMode",
+  "workPerformed": [
+    {
+      "@type": "PresentationDigitalDocument",
+      "name": "Firebase per Applicazioni complesse in Angular",
+      "description": "TODO",
+      "contentUrl": "TODO"
+    }
+  ]
+}

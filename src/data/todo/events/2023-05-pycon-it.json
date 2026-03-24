@@ -1,0 +1,29 @@
+{
+  "@type": "Event",
+  "name": "Pycon (Italy)",
+  "startDate": "2023-05",
+  "endDate": "2023-05",
+  "location": {
+    "@type": "Place",
+    "address": {
+      "@type": "PostalAddress",
+      "addressLocality": "Florence",
+      "addressCountry": "IT"
+    }
+  },
+  "url": "TODO",
+  "organizer": {
+    "@type": "Organization",
+    "name": "TODO",
+    "url": "TODO"
+  },
+  "eventAttendanceMode": "OfflineEventAttendanceMode",
+  "workPerformed": [
+    {
+      "@type": "PresentationDigitalDocument",
+      "name": "Nessuno fa Continuous Delivery: dimostrami il contrario!",
+      "description": "TODO",
+      "contentUrl": "TODO"
+    }
+  ]
+}

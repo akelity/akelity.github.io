@@ -1,0 +1,16 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "Composable Architectures vs. Microservices: Which Is Best?",
+  "datePublished": "2024",
+  "description": "🇬🇧 Composable Architectures vs. Microservices: Which Is Best?",
+  "author": {
+    "@type": "Person",
+    "name": "Tuo Nome"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "TheNewStack",
+    "url": "https://thenewstack.io/composable-architectures-vs-microservices-which-is-best/"
+  }
+}

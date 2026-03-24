@@ -1,0 +1,16 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "Shift Down to the Platform, not Left to the Dev",
+  "datePublished": "2023",
+  "description": "🇬🇧 Shift Down to the Platform, not Left to the Dev",
+  "author": {
+    "@type": "Person",
+    "name": "Tuo Nome"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Mia-Platform Blog",
+    "url": "https://blog.mia-platform.eu/en/shift-down-to-the-platform"
+  }
+}

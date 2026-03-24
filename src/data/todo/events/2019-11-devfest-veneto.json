@@ -1,0 +1,35 @@
+{
+  "@type": "Event",
+  "name": "DevFest Veneto 2019",
+  "startDate": "2019-11",
+  "endDate": "2019-11",
+  "location": {
+    "@type": "Place",
+    "address": {
+      "@type": "PostalAddress",
+      "addressLocality": "Venice",
+      "addressCountry": "Italy"
+    }
+  },
+  "url": "TODO",
+  "organizer": {
+    "@type": "Organization",
+    "name": "TODO",
+    "url": "TODO"
+  },
+  "eventAttendanceMode": "OfflineEventAttendanceMode",
+  "workPerformed": [
+    {
+      "@type": "PresentationDigitalDocument",
+      "name": "Firebase Functions - Il lato chiaro della Forza",
+      "description": "TODO",
+      "contentUrl": "TODO"
+    },
+    {
+      "@type": "PresentationDigitalDocument",
+      "name": "Manage Teams, a space adventure!",
+      "description": "TODO",
+      "contentUrl": "TODO"
+    }
+  ]
+}

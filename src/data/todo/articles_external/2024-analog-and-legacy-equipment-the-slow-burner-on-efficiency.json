@@ -1,0 +1,16 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "Analog and Legacy Equipment: The Slow Burner on Efficiency",
+  "datePublished": "2024",
+  "description": "🇬🇧 Analog and Legacy Equipment: The Slow Burner on Efficiency",
+  "author": {
+    "@type": "Person",
+    "name": "Tuo Nome"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Techspective",
+    "url": "https://techspective.net/2024/01/31/analog-and-legacy-equipment-the-slow-burner-on-efficiency/"
+  }
+}

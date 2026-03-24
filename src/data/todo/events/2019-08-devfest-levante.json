@@ -1,0 +1,29 @@
+{
+  "@type": "Event",
+  "name": "DevFest Levante",
+  "startDate": "2019-08",
+  "endDate": "2019-08",
+  "location": {
+    "@type": "Place",
+    "address": {
+      "@type": "PostalAddress",
+      "addressLocality": "Gallipoli",
+      "addressCountry": "Italy"
+    }
+  },
+  "url": "TODO",
+  "organizer": {
+    "@type": "Organization",
+    "name": "TODO",
+    "url": "TODO"
+  },
+  "eventAttendanceMode": "OfflineEventAttendanceMode",
+  "workPerformed": [
+    {
+      "@type": "PresentationDigitalDocument",
+      "name": "Angular Components Like a Jedi!",
+      "description": "TODO",
+      "contentUrl": "TODO"
+    }
+  ]
+}

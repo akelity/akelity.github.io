@@ -1,0 +1,29 @@
+{
+  "@type": "Event",
+  "name": "TechDay Messina 2018",
+  "startDate": "2018-05",
+  "endDate": "2018-05",
+  "location": {
+    "@type": "Place",
+    "address": {
+      "@type": "PostalAddress",
+      "addressLocality": "Messina",
+      "addressCountry": "Italy"
+    }
+  },
+  "url": "TODO",
+  "organizer": {
+    "@type": "Organization",
+    "name": "TODO",
+    "url": "TODO"
+  },
+  "eventAttendanceMode": "OfflineEventAttendanceMode",
+  "workPerformed": [
+    {
+      "@type": "PresentationDigitalDocument",
+      "name": "Build Modern (And Fast) WebApps",
+      "description": "TODO",
+      "contentUrl": "TODO"
+    }
+  ]
+}

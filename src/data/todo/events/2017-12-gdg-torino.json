@@ -1,0 +1,29 @@
+{
+  "@type": "Event",
+  "name": "GDG Torino",
+  "startDate": "2017-12",
+  "endDate": "2017-12",
+  "location": {
+    "@type": "Place",
+    "address": {
+      "@type": "PostalAddress",
+      "addressLocality": "Turin",
+      "addressCountry": "Italy"
+    }
+  },
+  "url": "TODO",
+  "organizer": {
+    "@type": "Organization",
+    "name": "TODO",
+    "url": "TODO"
+  },
+  "eventAttendanceMode": "OfflineEventAttendanceMode",
+  "workPerformed": [
+    {
+      "@type": "PresentationDigitalDocument",
+      "name": "JavaScript: from Zero to Jedi",
+      "description": "TODO",
+      "contentUrl": "TODO"
+    }
+  ]
+}
